@@ -1,0 +1,10 @@
+# Log started: 2022-12-20 12:23:18 +0100
+[2022-12-20 12:23:18] <@%Elrassel> !commands remove !mou
+[2022-12-20 12:23:18] <@^Nightbot> @Elrassel -> The command "!mou" has been deleted successfully.
+[2022-12-20 12:23:22] <@%Elrassel> !mu
+[2022-12-20 12:23:22] <@^Nightbot> @Elrassel Florry will take later today part in Master of Universalis tournament. Come watch him at 18:00 CET on: https://www.twitch.tv/speed5official
+[2022-12-20 12:24:19] <@%Elrassel> !commands edit !mu @$(user) Florry took part in Master of Universalis tournament. See the VODs on: https://www.twitch.tv/speed5official
+[2022-12-20 12:24:19] <@^Nightbot> @Elrassel -> The command "!mu" has been edited successfully.
+[2022-12-20 12:24:25] <@%Elrassel> !mu
+[2022-12-20 12:24:25] <@^Nightbot> @Elrassel Florry took part in Master of Universalis tournament. See the VODs on: https://www.twitch.tv/speed5official
+[2022-12-20 14:19:30] <SumoSnorlax> !mou

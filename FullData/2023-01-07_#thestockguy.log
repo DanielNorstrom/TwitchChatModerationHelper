@@ -1,0 +1,83 @@
+# Log started: 2023-01-07 00:40:58 +0100
+[2023-01-07 00:40:58] Disconnected
+[2023-01-07 00:40:58] Attempting to reconnect in 1 seconds.. (1/∞)
+[2023-01-07 00:40:59] Connecting to
+[2023-01-07 00:41:13] Joining #thestockguy..
+[2023-01-07 00:41:13] You have joined #thestockguy
+[2023-01-07 03:33:52] <w_juicer> ⣷⣶⣿⣿⣿⡿⠒⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣿⣿⣿⣿ ⣿⣿⣿⣿⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢨⢿⣿⣿⣿ ⣿⣿⣿⣿⣗⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡘⣿⣿⣿ ⣿⣿⣿⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⣠⣀⣀⡀⠄⠱⢸⣿⣿ ⣿⣿⣿⣿⣿⣆⠄⠄⢠⣿⣿⣄⣀⣀⣀⠄⢀⣀⣀⣀⣀⣹⣿⣿⡇⠄⢀⣿⣿⣿ ⣿⣿⣿⣿⠿⠋⠄⡤⠄⠁⠄⠈⠛⠻⣿⣿⣿⣿⣿⡿⠛⠛⠛⠻⣿⡄⣾⣿⣿⣿ ⣿⣿⣿⠋⣼⣷⠄⣷⣾⠛⡉⠉⡓⣶⣿⣿⣿⣿⣿⡤⠤⠤⠤⢤⡀⠁⣿⣿⣿⣿ ⣿⣿⠇⠄⣿⣿⢰⣿⣿⣶⣶⣶⣷⣶⣛⣩⣤⣄⠹⣤⣤⣀⣂⣠⣿⢰⣿⣿⣿⣿ ⣿⡟⠄⠄⣿⡟⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿ ⣿⠁⠄⠄⠘⢿⡆⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⣾⣿⣿⣿⣿ ⠇⠄⠄⠄⠄⠄⠄⢸⣿⣿⠋⠉⠛⠛⠻⣿⡿⠿⠻⠿⠿⠿⣿⡟⠈⢹⣿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⣏⢻⣦⣤⡘⠷⣴⣶⣧⣄⡠⠄⢀⣀⠏⠄⠄⠄⢿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⣄⠈⠄⢻⣿⣿⣶⡦⠤⠭⠤⠤⣾⣿⠃⠄⠄⠄⠄⠈⢿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⣿⣧⡀⠄⠙⣿⣿⣇⡀⣀⠄⠿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠙⠿ ⠄⠄⠄⠄⠄⠄⠸⣿⣿⣿⣤⡀⠄⠘⠘⠁⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ ⠄⠄⠄⠄⠄⠄⠄⢹⣿⣿⣿⣿⡷⠦⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+[2023-01-07 03:33:52] DELETED: w_juicer (⣷⣶⣿⣿⣿⡿⠒⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣿⣿⣿⣿ ⣿⣿⣿⣿⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢨⢿⣿⣿⣿ ⣿⣿⣿⣿⣗⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡘⣿⣿⣿ ⣿⣿⣿⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⣠⣀⣀⡀⠄⠱⢸⣿⣿ ⣿⣿⣿⣿⣿⣆⠄⠄⢠⣿⣿⣄⣀⣀⣀⠄⢀⣀⣀⣀⣀⣹⣿⣿⡇⠄⢀⣿⣿⣿ ⣿⣿⣿⣿⠿⠋⠄⡤⠄⠁⠄⠈⠛⠻⣿⣿⣿⣿⣿⡿⠛⠛⠛⠻⣿⡄⣾⣿⣿⣿ ⣿⣿⣿⠋⣼⣷⠄⣷⣾⠛⡉⠉⡓⣶⣿⣿⣿⣿⣿⡤⠤⠤⠤⢤⡀⠁⣿⣿⣿⣿ ⣿⣿⠇⠄⣿⣿⢰⣿⣿⣶⣶⣶⣷⣶⣛⣩⣤⣄⠹⣤⣤⣀⣂⣠⣿⢰⣿⣿⣿⣿ ⣿⡟⠄⠄⣿⡟⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿ ⣿⠁⠄⠄⠘⢿⡆⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⣾⣿⣿⣿⣿ ⠇⠄⠄⠄⠄⠄⠄⢸⣿⣿⠋⠉⠛⠛⠻⣿⡿⠿⠻⠿⠿⠿⣿⡟⠈⢹⣿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⣏⢻⣦⣤⡘⠷⣴⣶⣧⣄⡠⠄⢀⣀⠏⠄⠄⠄⢿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⣄⠈⠄⢻⣿⣿⣶⡦⠤⠭⠤⠤⣾⣿⠃⠄⠄⠄⠄⠈⢿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⣿⣧⡀⠄⠙⣿⣿⣇⡀⣀⠄⠿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠙⠿ ⠄⠄⠄⠄⠄⠄⠸⣿⣿⣿⣤⡀⠄⠘⠘⠁⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄ ⠄⠄⠄⠄⠄⠄⠄⢹⣿⣿⣿⣿⡷⠦⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄)
+[2023-01-07 03:34:13] <w_juicer> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠻⠛⠛⠛⠛⠹⠛⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠄⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠛⠿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⡿⢁⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣀⡀⠄⠄⠄⠈⢿⣿⣿ ⣿⣿⣿⣿⣿⣿⢟⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠄⠄⢻⣿ ⣿⣿⣿⣿⣿⡟⣼⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠄⠄⢻ ⣿⣿⣿⣿⠏⠘⠛⠂⠄⠄⠉⠙⢻⡟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⣿ ⣿⣿⡟⣩⣄⠄⠄⠛⠷⠄⠄⢀⣾⠗⠄⠄⠄⠄⠄⢀⣄⣙⠻⣿⡿⠿⠃⢀⣼⣿ ⣿⡿⢡⣿⣿⣿⣷⡴⢄⣤⣶⣿⣿⣄⠄⠄⠄⢠⣶⣶⡄⠉⠉⠙⢿⡆⢀⣾⣿⣿ ⣿⠃⠸⠿⠿⠛⠛⠶⣿⣿⣿⣿⣏⠻⣶⣼⣶⣦⣤⣄⡀⢀⣀⡺⠋⣴⣿⣿⣿⣿ ⡟⠄⠄⠄⠤⠾⠄⠄⣈⣛⠋⠉⠹⠆⣹⣿⣿⣿⣿⣿⣿⣿⠿⠁⢸⡟⢛⣿⣿⣿ ⣇⠄⠄⠄⠄⠶⢤⣴⣿⣉⡁⠄⢤⣾⣿⣿⢿⣿⡿⠟⠛⠄⠄⣴⣿⣿⣿⣿⣿⣿ ⣿⠄⠄⠙⠿⣿⣶⣬⣍⣉⠛⠲⠄⠈⠉⠁⠈⠁⠄⠄⠄⢀⣰⣿⣿⣿⣿⣿⣿⣿ ⣿⡆⠄⠄⠄⠄⠈⠉⠉⠉⠛⠄⠄⠄⠄⠄⠄⠄⠄⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣦⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣷⣤⣤⣀⣀⣀⣀⣠⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+[2023-01-07 03:34:13] BAN: w_juicer (60s)
+[2023-01-07 03:35:09] <@^Nightbot> DISCORD - https://discord.gg/TheStockGuy - TWITTER - https://twitter.com/TheStockGuyTV - YOUTUBE - https://youtube.com/TheStockGuy - REDDIT - https://reddit.com/r/TheStockGuy - INSTAGRAM - https://instagram.com/TheRealStockGuy - TIKTOK - https://www.tiktok.com/@thestockguy
+[2023-01-07 10:58:09] Disconnected
+[2023-01-07 10:58:09] Attempting to reconnect in 1 seconds.. (1/∞)
+[2023-01-07 10:58:10] Connecting to
+[2023-01-07 10:58:11] Disconnected (Failed to complete login)
+[2023-01-07 10:58:11] Attempting to reconnect in 5 seconds.. (2/∞)
+[2023-01-07 10:58:16] Connecting to
+[2023-01-07 10:58:17] Disconnected (Failed to complete login)
+[2023-01-07 10:58:17] Attempting to reconnect in 5 seconds.. (3/∞)
+[2023-01-07 10:58:22] Connecting to
+[2023-01-07 10:58:35] Joining #thestockguy..
+[2023-01-07 10:58:36] You have joined #thestockguy
+[2023-01-07 21:44:12] <rad_j_rad> Nerd
+[2023-01-07 22:55:53] <Sauce_Brune> Is anyone in this chat right now?
+[2023-01-07 23:00:36] <!%SmileyTheReal> no
+[2023-01-07 23:04:04] <Sauce_Brune> damn
+[2023-01-07 23:04:10] <!%SmileyTheReal> yeah
+[2023-01-07 23:04:19] <Sauce_Brune> i have a question
+[2023-01-07 23:04:29] <Sauce_Brune> about market stocks and stuff
+[2023-01-07 23:04:29] <!%SmileyTheReal> imaging being here on a saturday SMH MY HEAD
+[2023-01-07 23:04:38] <Sauce_Brune> XD
+[2023-01-07 23:04:41] <!%SmileyTheReal> okay
+[2023-01-07 23:05:09] <!%SmileyTheReal> ask your question maybe i can help
+[2023-01-07 23:05:11] <@^Nightbot> DISCORD - https://discord.gg/TheStockGuy - TWITTER - https://twitter.com/TheStockGuyTV - YOUTUBE - https://youtube.com/TheStockGuy - REDDIT - https://reddit.com/r/TheStockGuy - INSTAGRAM - https://instagram.com/TheRealStockGuy - TIKTOK - https://www.tiktok.com/@thestockguy
+[2023-01-07 23:05:29] <Sauce_Brune> What are resistant stock or industries that strives from recessions or worse
+[2023-01-07 23:06:00] <!%SmileyTheReal> well right now dividend stocks are doing well
+[2023-01-07 23:06:10] <@^Nightbot> I shouldn't have to say this, but i will.  This isn't financial advice - this is entertainment
+[2023-01-07 23:06:15] <!%SmileyTheReal> but its all pretty unstable rn
+[2023-01-07 23:06:37] <Sauce_Brune> i understand, but im looking more into the 5 year commitment
+[2023-01-07 23:07:02] <!%SmileyTheReal> hmm
+[2023-01-07 23:07:49] <!%SmileyTheReal> well then i would say you could invest in tech cause that might go up in 5 years
+[2023-01-07 23:08:03] <!%SmileyTheReal> but dont quote me on that
+[2023-01-07 23:08:24] <Sauce_Brune> i see
+[2023-01-07 23:08:28] <!%SmileyTheReal> i basically didnt change my investments
+[2023-01-07 23:08:39] <!%SmileyTheReal> im just doing the same as always
+[2023-01-07 23:08:58] <Sauce_Brune> ok, would tech be
+[2023-01-07 23:09:23] <Sauce_Brune> would tech be impacted by a sudden decline of commodities being sold
+[2023-01-07 23:09:32] <!%SmileyTheReal> but right now im moasty in dividends
+[2023-01-07 23:09:55] <!%SmileyTheReal> ohh yes for sure but alot of tech is already quiet low
+[2023-01-07 23:10:10] <@^Nightbot> DISCORD - https://discord.gg/TheStockGuy - TWITTER - https://twitter.com/TheStockGuyTV - YOUTUBE - https://youtube.com/TheStockGuy - REDDIT - https://reddit.com/r/TheStockGuy - INSTAGRAM - https://instagram.com/TheRealStockGuy - TIKTOK - https://www.tiktok.com/@thestockguy
+[2023-01-07 23:10:22] <Sauce_Brune> from?
+[2023-01-07 23:10:38] <!%SmileyTheReal> rn now the whole marked is very shaky
+[2023-01-07 23:11:06] <!%SmileyTheReal> wait sry i mis read your message
+[2023-01-07 23:11:57] <!%SmileyTheReal> if the people are selling their other stocks not in tech it should not change tech
+[2023-01-07 23:12:12] <!%SmileyTheReal> unless the whole marked sells then its will pull down techaswell
+[2023-01-07 23:12:41] <!%SmileyTheReal> but right now for 2023 it seems like dividends are pretty good
+[2023-01-07 23:12:55] <!%SmileyTheReal> also Stocky said Energy might have a good run
+[2023-01-07 23:13:21] <Sauce_Brune> ok, because i believe a few things is gonna happen
+[2023-01-07 23:13:38] <Sauce_Brune> but its in a decade
+[2023-01-07 23:13:48] <!%SmileyTheReal> even tough the market is a bit shky i still invest in tech
+[2023-01-07 23:14:00] <!%SmileyTheReal> shaky*
+[2023-01-07 23:14:44] <Sauce_Brune> tech is easily getting tiself up?
+[2023-01-07 23:14:49] <Sauce_Brune> even after shit occuring
+[2023-01-07 23:14:50] <Sauce_Brune> ?
+[2023-01-07 23:15:14] <@^Nightbot> Sign up for webull now, and get up to 4 free stocks valued up to $12k! https://a.webull.com/KJLtelohantupO2Ilq
+[2023-01-07 23:15:39] <!%SmileyTheReal> i basically dont care about most things i just keep investing in tech dividend stocks and health sektor
+[2023-01-07 23:16:08] <@^Nightbot> DISCORD - https://discord.gg/TheStockGuy - TWITTER - https://twitter.com/TheStockGuyTV - YOUTUBE - https://youtube.com/TheStockGuy - REDDIT - https://reddit.com/r/TheStockGuy - INSTAGRAM - https://instagram.com/TheRealStockGuy - TIKTOK - https://www.tiktok.com/@thestockguy
+[2023-01-07 23:16:08] <Sauce_Brune> have you investing during the last recession i think it was in 2021
+[2023-01-07 23:16:13] <Sauce_Brune> invested*
+[2023-01-07 23:16:48] <!%SmileyTheReal> yes i did not change anything im investing every month and i dont change anything
+[2023-01-07 23:17:08] <@^Nightbot> I shouldn't have to say this, but i will.  This isn't financial advice - this is entertainment
+[2023-01-07 23:17:16] <Sauce_Brune> and its been going ''good'' for you?
+[2023-01-07 23:17:42] <!%SmileyTheReal> yes
+[2023-01-07 23:18:12] <Sauce_Brune> ok, thank you for youre time, i still need to research some more but you have helped a lot
+[2023-01-07 23:18:14] <!%SmileyTheReal> well there are some tech stocks that are not doing well right now but over all its doing quiet well
+[2023-01-07 23:18:38] <Sauce_Brune> just like in every sector... xD
+[2023-01-07 23:18:47] <Sauce_Brune> theres always a black sheep
+[2023-01-07 23:18:50] <!%SmileyTheReal> yeah also dont quote me on aynthing
+[2023-01-07 23:18:58] <Sauce_Brune> dotn worry
+[2023-01-07 23:18:58] <!%SmileyTheReal> yes obviusly
+[2023-01-07 23:19:14] <Sauce_Brune> im out gn
+[2023-01-07 23:19:40] <!%SmileyTheReal> gn
+[2023-01-07 23:20:11] <@^Nightbot> DISCORD - https://discord.gg/TheStockGuy - TWITTER - https://twitter.com/TheStockGuyTV - YOUTUBE - https://youtube.com/TheStockGuy - REDDIT - https://reddit.com/r/TheStockGuy - INSTAGRAM - https://instagram.com/TheRealStockGuy - TIKTOK - https://www.tiktok.com/@thestockguy

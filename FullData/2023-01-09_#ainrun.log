@@ -1,0 +1,65 @@
+# Log started: 2023-01-09 00:56:49 +0100
+[2023-01-09 00:56:49] <@%ArhamSAA> !editcom !maliketh https://clips.twitch.tv/VivaciousAlertJackalNomNom-lIcCZibRf4aib3qc
+[2023-01-09 00:56:49] <@%^Nightbot> @ArhamSAA -> The command "!maliketh" has been edited successfully.
+[2023-01-09 00:56:55] <@%ArhamSAA> !maliketh
+[2023-01-09 00:56:55] <@%^Nightbot> https://clips.twitch.tv/VivaciousAlertJackalNomNom-lIcCZibRf4aib3qc
+[2023-01-09 00:57:25] <@%ArhamSAA> !editcom !gideon https://clips.twitch.tv/FreezingSarcasticLegOptimizePrime-2cefgDSsxVBEM8bc
+[2023-01-09 00:57:25] <@%^Nightbot> @ArhamSAA -> The command "!gideon" has been edited successfully.
+[2023-01-09 01:01:34] <@%ArhamSAA> !editcom !mohg https://clips.twitch.tv/IcyJollyStarlingHassanChop-iwcy_RbDB1Gs6bm9
+[2023-01-09 01:01:34] <@%^Nightbot> @ArhamSAA -> There was an error editing the command. Error: command does not exist
+[2023-01-09 01:01:38] <@%ArhamSAA> !addcom !mohg https://clips.twitch.tv/IcyJollyStarlingHassanChop-iwcy_RbDB1Gs6bm9
+[2023-01-09 01:01:45] <@%ArhamSAA> !addcom !mohg https://clips.twitch.tv/IcyJollyStarlingHassanChop-iwcy_RbDB1Gs6bm9
+[2023-01-09 01:01:45] <@%^Nightbot> @ArhamSAA -> The command "!mohg" has been added successfully.
+[2023-01-09 01:02:18] <@%ArhamSAA> !firegiant
+[2023-01-09 01:02:18] <@%^Nightbot> https://clips.twitch.tv/JoyousHumbleParrotSquadGoals-SOZbcUXrL0XGRg3m
+[2023-01-09 01:02:23] <@%ArhamSAA> !duo
+[2023-01-09 01:02:24] <@^StreamElements> https://clips.twitch.tv/WealthyDullDragonflyVoHiYo-FxU3DSHE2WdUyJni
+[2023-01-09 01:03:37] <@%ArhamSAA> !morgott
+[2023-01-09 01:03:45] <@%ArhamSAA> !addcom !morgott https://clips.twitch.tv/RoundBitterMuleTBTacoLeft-JXT7NiVOtBatNqsq
+[2023-01-09 01:03:45] <@%^Nightbot> @ArhamSAA -> The command "!morgott" has been added successfully.
+[2023-01-09 01:07:07] <@%ArhamSAA> !margit
+[2023-01-09 01:07:11] <@%ArhamSAA> !addcom !margit https://clips.twitch.tv/ObliqueBadMochaBleedPurple-Ujcntmwr_Jo61pJy
+[2023-01-09 01:07:11] <@%^Nightbot> @ArhamSAA -> The command "!margit" has been added successfully.
+[2023-01-09 01:07:30] <@%ArhamSAA> !godrick
+[2023-01-09 01:07:30] <@%^Nightbot> https://clips.twitch.tv/TriangularFurryWoodpeckerKevinTurtle-GYo8vIaH4Gy_pPUh
+[2023-01-09 01:09:24] <@%ArhamSAA> !bosses
+[2023-01-09 01:09:24] <@%^Nightbot> completed bosses: !margit !godrick !radahn !mohg !moose !goldfrey !morgott !rennala !gargs !champs !fortissax !niall !loretta !malenia !astel !rykard !firegiant !duo !maliketh !gideon !hoarah !placi !gigaastel !radabeast
+[2023-01-09 01:10:13] <@%ArhamSAA> !editcom !bosses completed bosses: !margit !godrick !mohg !moose !goldfrey !morgott !rennala !niall !loretta !malenia !firegiant !duo !maliketh !gideon
+[2023-01-09 01:10:14] <@%^Nightbot> @ArhamSAA -> The command "!bosses" has been edited successfully.
+[2023-01-09 01:10:28] <@%ArhamSAA> !editcom !duo https://clips.twitch.tv/UninterestedPluckyWeaselPanicBasket-MIJ0HsFIJomqQtL7
+[2023-01-09 01:10:28] <@%^Nightbot> @ArhamSAA -> There was an error editing the command. Error: command does not exist
+[2023-01-09 01:10:34] <@%ArhamSAA> !addcom !duo https://clips.twitch.tv/UninterestedPluckyWeaselPanicBasket-MIJ0HsFIJomqQtL7
+[2023-01-09 01:10:35] <@%^Nightbot> @ArhamSAA -> The command "!duo" has been added successfully.
+[2023-01-09 01:10:40] <@%ArhamSAA> !godskin
+[2023-01-09 01:10:44] <@%ArhamSAA> !godskinduo
+[2023-01-09 01:10:46] <@%ArhamSAA> !duo
+[2023-01-09 01:10:46] <@%^Nightbot> https://clips.twitch.tv/UninterestedPluckyWeaselPanicBasket-MIJ0HsFIJomqQtL7
+[2023-01-09 01:10:46] <@^StreamElements> https://clips.twitch.tv/WealthyDullDragonflyVoHiYo-FxU3DSHE2WdUyJni
+[2023-01-09 01:10:59] <@%ArhamSAA> !command delete !duo
+[2023-01-09 01:10:59] <@^StreamElements> @ArhamSAA, successfully removed command duo.
+[2023-01-09 01:16:49] <@%ArhamSAA> !addcom !niall https://clips.twitch.tv/FaithfulSecretiveBunnyPastaThat-0NbRUBxCaIF0itlO
+[2023-01-09 01:16:49] <@%^Nightbot> @ArhamSAA -> The command "!niall" has been added successfully.
+[2023-01-09 01:19:09] <@%ArhamSAA> !addcom !loretta https://clips.twitch.tv/DepressedMiniatureLapwingBibleThump-OMUU24RdnCJWO4Jr
+[2023-01-09 01:19:09] <@%^Nightbot> @ArhamSAA -> There was an error adding the command. Error: command name already exists
+[2023-01-09 01:19:16] <@%ArhamSAA> !editcom !loretta https://clips.twitch.tv/DepressedMiniatureLapwingBibleThump-OMUU24RdnCJWO4Jr
+[2023-01-09 01:19:16] <@%^Nightbot> @ArhamSAA -> The command "!loretta" has been edited successfully.
+[2023-01-09 01:19:19] <@%ArhamSAA> !loretata
+[2023-01-09 01:19:21] <@%ArhamSAA> !loretta
+[2023-01-09 01:19:21] <@%^Nightbot> https://clips.twitch.tv/DepressedMiniatureLapwingBibleThump-OMUU24RdnCJWO4Jr
+[2023-01-09 01:19:26] Channel was cleared by a moderator.
+[2023-01-09 01:20:00] <@%ArhamSAA> !editcom !bosses completed bosses: !margit !godrick !mohg !moose !goldfrey !morgott !rennala !niall !loretta !firegiant !duo !maliketh !gideon
+[2023-01-09 01:20:00] <@%^Nightbot> @ArhamSAA -> The command "!bosses" has been edited successfully.
+[2023-01-09 01:20:10] <@%ArhamSAA> !rennala
+[2023-01-09 01:20:11] <@%^Nightbot> https://clips.twitch.tv/UgliestInexpensiveTrollOptimizePrime-KYvtTDedXun6ARrw
+[2023-01-09 01:23:01] <@%ArhamSAA> !editcom !rennala https://clips.twitch.tv/FrozenProductiveBisonWOOP-ZraVYfW_i_VpwEJV
+[2023-01-09 01:23:01] <@%^Nightbot> @ArhamSAA -> The command "!rennala" has been edited successfully.
+[2023-01-09 01:26:27] <@%ArhamSAA> !run
+[2023-01-09 01:26:27] <@%^Nightbot> SUMMON ONLY, 1 SUMMON PER BOSS, I CAN KILL THINGS IF I CANT SUMMON UWU
+[2023-01-09 01:27:37] <@%ArhamSAA> !editcom !run SPIRIT SUMMONS ONLY, NO LEGENDARY/NAMED SUMMONS (UNLESS), I CAN KILL THINGS IF I CAN'T SUMMON
+[2023-01-09 01:27:37] <@%^Nightbot> @ArhamSAA -> The command "!run" has been edited successfully.
+[2023-01-09 01:27:48] Channel was cleared by a moderator.
+[2023-01-09 08:29:16] <%Rubickasd_xD> PepeHands
+[2023-01-09 08:29:46] <%Rubickasd_xD> Concerned
+[2023-01-09 09:42:26] <%Rubickasd_xD> Concern
+[2023-01-09 09:42:29] <%Rubickasd_xD> Concerned
+[2023-01-09 19:40:17] <%meinMestar> !arham

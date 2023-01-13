@@ -1,0 +1,627 @@
+# Log started: 2022-12-07 17:32:31 +0100
+[2022-12-07 17:32:31] ~It Is Wednesday My Dudes (Just Chatting)~
+[2022-12-07 17:32:31] Joining #giantwaffle..
+[2022-12-07 17:32:31] VIEWERS: 1 539
+[2022-12-07 17:32:31] You have joined #giantwaffle
+[2022-12-07 17:32:36] <%banshay3> the concept is the same
+[2022-12-07 17:32:42] <%KoniQ111> non-binary trees is just binary trees with extra elements
+[2022-12-07 17:32:43] <m1ntyb0iz> neetcode is good
+[2022-12-07 17:32:45] <%$PaulFlies> Search tree walk maybe
+[2022-12-07 17:32:45] <%cmmeth> its the same
+[2022-12-07 17:32:46] <+DatoPotatoDato> inorder works with any tree its the same concept
+[2022-12-07 17:32:46] <%banshay3> what he just explained is what you will do
+[2022-12-07 17:32:46] <Dude_S14> create a class function that sends the value of the added file to the parent, and it just keeps calling the parent of the class until you get to root?
+[2022-12-07 17:32:46] <Alminta> Could look up DFS
+[2022-12-07 17:32:48] <%brewerdc> THat one
+[2022-12-07 17:32:50] <%brewerdc> 5 Simple Steps
+[2022-12-07 17:32:52] <olm_alone_> its the same, jsut replace the 2 binary outputs with all your children instead
+[2022-12-07 17:32:53] <%Munschmann> It's the same
+[2022-12-07 17:32:53] <%brewerdc> That will help
+[2022-12-07 17:32:56] <espi> search for a tree walk or non-binary tree
+[2022-12-07 17:33:08] <%brewerdc> Yes
+[2022-12-07 17:33:08] <Stragmol> @banshay3 but confusing unless you know the difference
+[2022-12-07 17:33:08] <%+W84M3> yes
+[2022-12-07 17:33:14] <%brewerdc> Title
+[2022-12-07 17:33:23] <espi> YEP
+[2022-12-07 17:33:25] <%brewerdc> Need to
+[2022-12-07 17:33:31] <%brewerdc> Learning day
+[2022-12-07 17:33:33] <%banshay3> just watch 2x
+[2022-12-07 17:33:48] <ashooby> think of it this way: binary is `for c in [left, right]: # do loop`, this case is: `for c in children: # do loop`
+[2022-12-07 17:33:51] <proste_Fefko> you would have a while children != none
+[2022-12-07 17:33:53] <byGeeky> it still blows my mind that indians are a type of asian
+[2022-12-07 17:33:54] <Ihana_Mies> make a function to increase the size which calls the same function on parent or children, recursion done
+[2022-12-07 17:33:55] <%NotPeaK> If you skip it how do we learn? waffleSad
+[2022-12-07 17:33:59] <+TwitchPlusMe> To understand recursion, you must understand recursion slootYEP
+[2022-12-07 17:34:03] <%$PaulFlies> I wish I had YouTube at university. Would have been nice to get alternative explanations of stuff i didn’t understand
+[2022-12-07 17:34:03] <Flobu_> that looks like a 3blue1brown video just with different voice over
+[2022-12-07 17:34:11] <%cmmeth> you dont
+[2022-12-07 17:34:14] <%$Thermaight> that is what the stack does for you
+[2022-12-07 17:34:14] <%gartoks> you dont
+[2022-12-07 17:34:15] <%KoniQ111> Python does this for you
+[2022-12-07 17:34:17] <%cmmeth> thats what the recursion does
+[2022-12-07 17:34:18] <%brewerdc> The computer does that for you
+[2022-12-07 17:34:19] <+DeMayon> That’s recursion
+[2022-12-07 17:34:24] <Stragmol> thats what you get with recursion
+[2022-12-07 17:34:28] <+FlyingVillage> Always ask the parent
+[2022-12-07 17:34:28] <%+W84M3> @Giantwaffle think of it this way... you are doing "current_node.size += ..." in this tiem just call a function that gets the node parent and to stop the recursion you check if there is no parent
+[2022-12-07 17:34:29] <olm_alone_> you dont need to think that way with recursion, you dont need to keep track
+[2022-12-07 17:34:30] <%$Thermaight> tree traversal is a stack, you can do it with recursion (implicit stack) or explicitly
+[2022-12-07 17:34:34] <+echoteecat> that's the magic of recursion, you just end up in the node, and going "back up" is just returning
+[2022-12-07 17:34:37] <%KoniQ111> You call a function inside a function and when it's done, you return to the original
+[2022-12-07 17:34:38] <IceKingFlash> This sounds so bad  LOLLLLLLLLLL
+[2022-12-07 17:34:40] <%banshay3> you have a variable that holds the reference to the root_node. use this to start. for the recursion you don't need to know where you are
+[2022-12-07 17:34:45] <Redster11> each not needs to have a list of child nodes that it can point to
+[2022-12-07 17:34:45] <@%^Moobot> Come join the Waffle House Discord! <# https://discord.gg/fhGFtMuzdS
+[2022-12-07 17:34:45] <%$PaulFlies> Draw it out
+[2022-12-07 17:34:47] <%brewerdc> He's almost there guys pepeLaugh
+[2022-12-07 17:34:47] <m1ntyb0iz> you track state in an argument to the recursion
+[2022-12-07 17:34:50] <%bobolpwnz> def traverse(node):   for child in node.children:      traverse(child)
+[2022-12-07 17:34:50] <%banshay3> and it's under a 100k
+[2022-12-07 17:35:03] <%brewerdc> ALWAYS have an escape check
+[2022-12-07 17:35:19] <%KoniQ111> Entire chat on their way to tell waffle how to do recursion peepoRun
+[2022-12-07 17:35:28] <%$Thermaight> do_thing(current, children):    print(current)    for child in children:      do_thing(child)
+[2022-12-07 17:35:31] <%brewerdc> if (children.count == 0) return;
+[2022-12-07 17:35:49] <%+W84M3> thinking in that direction is more complicated becasue you have multiple children... if you start back and go up you just need to use the parent and stop when there is no parent
+[2022-12-07 17:35:50] <%$PaulFlies> @koniq111 KEKW ‘me me me i know’
+[2022-12-07 17:36:26] <%KoniQ111> @brewerdc won't 'for child in children' do the same tho?
+[2022-12-07 17:36:42] <headlightlo> <3 <3 <3 <3 Any one excited for the up coming $20000 M1 GAME CONSOLE ?!??!?! MAXIXES.. CC .... O.O .... MM
+[2022-12-07 17:36:44] <Dude_S14> could you do a class method called add_size, and inside that call this.parent.add_size, then it would go up all the way to root?
+[2022-12-07 17:36:46] <%banshay3> @Giantwaffle less than or equal 100k
+[2022-12-07 17:36:47] <+ReySteaL> look for the Breadth-first search algorithm
+[2022-12-07 17:36:47] <%+em_t_hed> is this a pyramid scheme Kappa
+[2022-12-07 17:36:59] <%cmmeth> just need the size YEP
+[2022-12-07 17:36:59] <Redster11> Breath-First-Search on Trees
+[2022-12-07 17:37:02] <Schwee09> i just used a stack to keep track of my current path, and then every time i found a file i would loop through the stack to add the size ['/', 'a', 'e']
+[2022-12-07 17:37:26] <%+W84M3> you have a size variable in the nodes... if you do all the calculations in the tree construction you dont need to do any of this
+[2022-12-07 17:37:34] <%cmmeth> you can just add it to the size
+[2022-12-07 17:37:42] <%KoniQ111> @headlightlo yes mod this msg right here susHmm
+[2022-12-07 17:37:58] <%+W84M3> when you originally increase the sie of a dir... also increase in the parents
+[2022-12-07 17:38:02] <%brewerdc> @KoniQ111 That works too
+[2022-12-07 17:38:04] <Ihana_Mies> where are you keeping the list of files?
+[2022-12-07 17:38:04] <%+W84M3> that way it's already set
+[2022-12-07 17:38:19] <%cmmeth> the recursion knows
+[2022-12-07 17:38:20] <%banshay3> when you've been to all children
+[2022-12-07 17:38:21] <DiamondDestructe> oo boy, tree traversal
+[2022-12-07 17:38:26] BAN: headlightlo (600s)
+[2022-12-07 17:38:35] <+ReySteaL> look up Breadth/Depth-first search
+[2022-12-07 17:38:36] <%Chronoes> you don't need a visited set in a tree
+[2022-12-07 17:38:36] <+DeMayon> It’s recursion it does
+[2022-12-07 17:38:52] <iamjoy7> just joining what are you trying to do
+[2022-12-07 17:38:59] <Jayray84> just recursion makes the trick ;)
+[2022-12-07 17:39:04] <%Chronoes> recursive depth-first search will handle it for you, just gotta understand that part
+[2022-12-07 17:39:06] <burtis_trindinstein> @Giantwaffle hows Melvor progressing?
+[2022-12-07 17:39:07] <%KoniQ111> DFS
+[2022-12-07 17:39:15] <deep5> Dfs recursion will take care of that
+[2022-12-07 17:39:20] <%brewerdc> @KoniQ111 Just basic principle, for  recursion, you need an escape check to break the recursion.
+[2022-12-07 17:39:33] <%banshay3> Clap
+[2022-12-07 17:39:42] <%brewerdc> @KoniQ111 The loop is doing that for you
+[2022-12-07 17:39:56] <%cmmeth> for child in working_node.children
+[2022-12-07 17:40:05] <%+W84M3> i really don't want to spam... but while you are adding the sizes to a dir, call a recursive function to add it to the parent, that way you have all parents up to date on the sizes and then you just check that size and filter is <= x
+[2022-12-07 17:40:28] <imNoxel> ^
+[2022-12-07 17:40:36] <%cmmeth> monkaHmm
+[2022-12-07 17:40:37] <%banshay3> @W84M3 I think he will end up with a recursive function... eventually
+[2022-12-07 17:41:02] <imNoxel> yeah but you can do it in the main loop, and just read it out after. no need to go through the tree again
+[2022-12-07 17:41:03] <McFatbutt> NOTED
+[2022-12-07 17:41:09] <%cmmeth> @w84m3, we are getting there, slowly ... might take the whole stream, but we wil lget there
+[2022-12-07 17:41:14] <+IrUnan71> can u teach matlab
+[2022-12-07 17:41:18] <%+W84M3> yes he will... but he will go up->down instead of down->up
+[2022-12-07 17:41:40] <Dude_S14> create a stack of children and once you've searched it pop it off, and do while len(stack) >= 1
+[2022-12-07 17:41:50] <whyando> function SUM(node) {  sum = 0  for child of node.children   sum += SUM(child)  return sum }
+[2022-12-07 17:42:22] <%+W84M3> at least in my brain it looks simpler to do it this way instead of going all over the children... becasue then he doesn't even need to keep  a lsit of children
+[2022-12-07 17:42:35] <Lyrienne> trying to do recursion and parse twitch chat at the same time challenge
+[2022-12-07 17:42:42] <Jayray84> what if children is 0
+[2022-12-07 17:43:03] <%cmmeth> return the size ot that dir
+[2022-12-07 17:43:03] <@%^Moobot> You can find Waffle's Youtube channel here - https://youtube.com/giantwaffle
+[2022-12-07 17:43:10] <%+W84M3> as long and you have all directories updated with the sizes you don't really care if a dir has n children or not...
+[2022-12-07 17:43:25] <whyando> YES
+[2022-12-07 17:43:30] <%banshay3> Clap
+[2022-12-07 17:43:42] <%KoniQ111> make a variable with value 0, add children sizes to it. that way with no children it stays 0
+[2022-12-07 17:43:44] <Alminta> You can iterate over an empty list. It just won't do anything
+[2022-12-07 17:43:53] <%banshay3> return something
+[2022-12-07 17:44:08] <%banshay3> at most 100k
+[2022-12-07 17:44:11] <%Immp> node.size, not child.size
+[2022-12-07 17:44:47] <%cmmeth> the asnwer wants <= 100000
+[2022-12-07 17:44:48] <Ihana_Mies> calculate the size on the fly
+[2022-12-07 17:44:50] <+iSir_Ike> just tuned in, whats going on?
+[2022-12-07 17:45:09] <%banshay3> @cmmeth this is going to be fun
+[2022-12-07 17:45:09] <Kosernik> coding challenge
+[2022-12-07 17:45:11] <%GFQPR1882> ello waffle n chat waffleLove
+[2022-12-07 17:45:19] <+iSir_Ike> ahh i seee
+[2022-12-07 17:45:21] <%cmmeth> @isir_ike, a struggle to understand recursion
+[2022-12-07 17:45:40] <%Chronoes> you will need to keep sizes per directory
+[2022-12-07 17:45:49] <+0ddR> still hacking the planet?
+[2022-12-07 17:46:10] <%+MasterKraft> parent always exists?
+[2022-12-07 17:46:12] <+iSir_Ike> i am not versed in coding tongue <3
+[2022-12-07 17:46:22] <+0ddR> watching makes me feel dumb
+[2022-12-07 17:46:25] <%KoniQ111> if parent is not none though
+[2022-12-07 17:46:31] <%anx_gotta> Just got back. He implementing a depth first tree traversal?
+[2022-12-07 17:46:41] <%brewerdc> @anx_gotta Yep
+[2022-12-07 17:46:41] <+iSir_Ike> i dont know whats going on, i haff to googlru thigs
+[2022-12-07 17:46:42] <%cmmeth> final answer: 3 NODDERS
+[2022-12-07 17:46:50] <%DX_Plates> Giantwaffle Re-read question... AT MOST 100,000
+[2022-12-07 17:46:51] <%banshay3> you can use your variables in the f-string directly using {}
+[2022-12-07 17:46:53] <Schwee09> isnt it at most 100000? <= 100000
+[2022-12-07 17:46:56] <%banshay3> Pog
+[2022-12-07 17:47:18] <%TigerLuv> cmmeth wait I was told 42 was always the answer
+[2022-12-07 17:47:25] <%banshay3> if parent.size == None -> 0
+[2022-12-07 17:47:32] <%GFQPR1882> That’s true what if there is no parent
+[2022-12-07 17:47:36] <+DatoPotatoDato> check if node is null
+[2022-12-07 17:47:40] <%KoniQ111> nono
+[2022-12-07 17:47:41] <%banshay3> sorry parent == None
+[2022-12-07 17:47:43] <%KoniQ111> if parent is not none
+[2022-12-07 17:47:46] <%brewerdc> Gotta null check
+[2022-12-07 17:47:56] <%cmmeth> @tigerluv, if in doubt, 42 YEP
+[2022-12-07 17:48:11] <%TigerLuv> cmmeth :D
+[2022-12-07 17:48:14] <%KoniQ111> Clap
+[2022-12-07 17:48:15] <Schwee09> shouldnt it be <= 100000?
+[2022-12-07 17:48:17] <%DX_Plates> Giantwaffle Re-read question... AT MOST 100,000
+[2022-12-07 17:48:25] <%brewerdc> Gotta flip your > to <=
+[2022-12-07 17:48:28] <%Chronoes> <= 100000
+[2022-12-07 17:48:35] <%Immp> Or equal to
+[2022-12-07 17:48:36] <%brewerdc> Oh hi! YOu see us
+[2022-12-07 17:48:37] <%banshay3> I've tried so long pepeLaugh
+[2022-12-07 17:48:42] <%+D_roi_D> Clap
+[2022-12-07 17:48:44] <%GFQPR1882> Clap
+[2022-12-07 17:48:44] <%brewerdc> Clap @banshay3
+[2022-12-07 17:48:45] <+iSir_Ike> SUUUIWEEEYY
+[2022-12-07 17:48:45] <%banshay3> Clap
+[2022-12-07 17:48:45] <%cmmeth> Clap
+[2022-12-07 17:48:46] <deep5> Nice
+[2022-12-07 17:48:50] <%TigerLuv> Clap
+[2022-12-07 17:48:51] <+DatoPotatoDato> Clap
+[2022-12-07 17:48:52] <Kosernik> Clap2
+[2022-12-07 17:48:52] <proste_Fefko> Clap
+[2022-12-07 17:48:53] <%$oxlBEASTlxo> Clap
+[2022-12-07 17:48:53] <%Chronoes> Clap recursion
+[2022-12-07 17:48:54] <Xezzive> Clap
+[2022-12-07 17:49:00] <%slothfarms> well mine was in the millions LUL
+[2022-12-07 17:49:02] <%bobolpwnz> Clap
+[2022-12-07 17:49:08] <%brewerdc> Well done sir Clap
+[2022-12-07 17:49:11] <%$Thermaight> boom
+[2022-12-07 17:49:12] <%banshay3> fire the input, LET's GO
+[2022-12-07 17:49:13] <Ihana_Mies> Clap
+[2022-12-07 17:49:16] <+FuzzyOmega> Clap
+[2022-12-07 17:49:17] <+rofl1436> Clap
+[2022-12-07 17:49:17] <%+FrostedSentry> cohhJam
+[2022-12-07 17:49:17] <headbang3rboogie> Clap
+[2022-12-07 17:49:18] <ThunderTheft> Clap
+[2022-12-07 17:49:19] <%slothfarms> Clap
+[2022-12-07 17:49:19] <Kosernik> itst test input
+[2022-12-07 17:49:19] <%cmmeth> EZ Clap
+[2022-12-07 17:49:19] <ashooby> Clap
+[2022-12-07 17:49:19] <olm_alone_> GOOD JOB WAFFLE
+[2022-12-07 17:49:21] <%DX_Plates> Clap
+[2022-12-07 17:49:22] <RpidFrTommyGun> clap
+[2022-12-07 17:49:23] <%brewerdc> Resume time!
+[2022-12-07 17:49:23] <%+MasterKraft> lol, part 1 down...
+[2022-12-07 17:49:23] <%GFQPR1882> GG
+[2022-12-07 17:49:24] <@%$Apparentthreat> "Continue to Part 2" KEKW
+[2022-12-07 17:49:24] <%anx_gotta> Feels good man
+[2022-12-07 17:49:25] <P0tat0killer> time for part 2 KEKW
+[2022-12-07 17:49:25] <%+Zimmygee> NOW PART 2 GOODLUCK
+[2022-12-07 17:49:25] <%+D_roi_D> the dopamine hits
+[2022-12-07 17:49:27] <Ihana_Mies> well done!
+[2022-12-07 17:49:28] <RpidFrTommyGun> fuck
+[2022-12-07 17:49:29] <RpidFrTommyGun> Clap
+[2022-12-07 17:49:30] <%GFQPR1882> SeemsGood
+[2022-12-07 17:49:31] <%Surge43> Chat gets hired
+[2022-12-07 17:49:33] <%Hurtwolf> good job!!
+[2022-12-07 17:49:34] <AleXanDreMau> Clap
+[2022-12-07 17:49:34] <Kosernik> PauseChamp part2
+[2022-12-07 17:49:41] <%anx_gotta> lol, you have done one homework assignment in a 1000 level coding course
+[2022-12-07 17:49:44] <%banshay3> this is the knowledge that will help you the rest of the month
+[2022-12-07 17:49:49] <%$Thermaight> speed running trees and recursion
+[2022-12-07 17:49:49] <%GFQPR1882> waffleHmm waffleNote NOPERS took to long LUL
+[2022-12-07 17:49:49] <%$PaulFlies> I mean that’s basically a coding interview in some places
+[2022-12-07 17:49:49] <Zuiuzz> day 7 btw :D
+[2022-12-07 17:49:49] <$MrMoneybagMan> Good job Clap
+[2022-12-07 17:49:49] <ashooby> the next part is easier
+[2022-12-07 17:49:49] <%brewerdc> Part2 should be another dose of dope
+[2022-12-07 17:49:49] <+rofl1436> 5Head here we go
+[2022-12-07 17:49:50] <+echoteecat> woo!
+[2022-12-07 17:49:50] <Zoocha> the 1% feeling of coding, the other 99% being Sadge
+[2022-12-07 17:49:51] <%TigerLuv> waffleSPIN  waffleSPINFASTER  waffleSPIN
+[2022-12-07 17:49:51] <%cmmeth> WE should get hired as college profs KEKW
+[2022-12-07 17:49:51] <%Hurtwolf> 5Head ?
+[2022-12-07 17:49:52] <@%$Apparentthreat> tree traversal is like a sophomore/junior level course in CS. You've got lots more to learn Kappa
+[2022-12-07 17:49:52] <monsef> @Giantwaffle did you see the openai api website
+[2022-12-07 17:49:54] <Maximus439> 5Head
+[2022-12-07 17:49:55] <+0ddR> my brain hurts
+[2022-12-07 17:49:55] <%brewerdc> Now you get to use the function
+[2022-12-07 17:49:56] <IceKingFlash> Lol
+[2022-12-07 17:49:58] <%DX_Plates> Now you write it down as 4 hours, and you're half way done with a work day.
+[2022-12-07 17:49:59] <%+MasterKraft> what was the point of adding to parent.size?
+[2022-12-07 17:50:05] <Kurbol> General coding tip: Recursion will almost always be slower than an iterative solution and tends to run out of memory. Recursion is easier for humans to reason about though for some problems.
+[2022-12-07 17:50:05] <Phinnick> well done. Trees are hard. As a game engineer they are suffering :P
+[2022-12-07 17:50:05] <+rofl1436> pepeLaugh
+[2022-12-07 17:50:06] <%Hurtwolf> widePepeLaugh
+[2022-12-07 17:50:09] <ashooby> oh, though I guess it might not be easier if your code isn't set up right
+[2022-12-07 17:50:14] <+rofl1436> about that pepeLaugh
+[2022-12-07 17:50:17] <AleXanDreMau> pepeLaugh
+[2022-12-07 17:50:24] <%cmmeth> it's easy with your function
+[2022-12-07 17:50:29] <IceKingFlash> Ok then more coding
+[2022-12-07 17:50:33] <+iSir_Ike> if i wanted to start coding and progress into something further, where would i start?
+[2022-12-07 17:50:42] <Myekos> "a directory"
+[2022-12-07 17:50:52] <%brewerdc> while loops with recursion?
+[2022-12-07 17:50:54] <%$PaulFlies> Why go to all this effort… rm -rf / Kappa
+[2022-12-07 17:50:55] <%GFQPR1882> EZ delete all :)
+[2022-12-07 17:51:04] <%deathfurr> just do format c: and stop worrying about directories
+[2022-12-07 17:51:05] <@%^Moobot> You can sub to Waffle by clicking this neat link -> twitch.tv/giantwaffle/subscribe SUBprise
+[2022-12-07 17:51:05] <Kosernik> @iSir_Ike coursera
+[2022-12-07 17:51:07] <%TigerLuv> oh darn, I just deleted windotexe
+[2022-12-07 17:51:09] <%banshay3> delete / to solve all your problems
+[2022-12-07 17:51:10] <scuffedcat> !followage
+[2022-12-07 17:51:10] <@%^Moobot> To see how long you have followed, just click your name 4Head
+[2022-12-07 17:51:21] <%banshay3> yes!
+[2022-12-07 17:51:22] <%cmmeth> YEP
+[2022-12-07 17:51:25] <+FuzzyOmega> system32
+[2022-12-07 17:51:26] <Zoocha> pepeLaugh
+[2022-12-07 17:51:26] <olm_alone_> its not so bad
+[2022-12-07 17:51:29] <%cmmeth> it is YEP
+[2022-12-07 17:51:30] <olm_alone_> dont overthink
+[2022-12-07 17:51:35] <Kosernik> @iSir_Ike also CS50 course
+[2022-12-07 17:51:35] <%+W84M3> it should at least
+[2022-12-07 17:51:35] <%KoniQ111> Check root for total size taken, -40 mil, thats the minimum directory size to delete
+[2022-12-07 17:51:37] <%Chronoes> it's pretty easy once you have the DFS part down
+[2022-12-07 17:51:38] <%banshay3> you have created all the tools you need
+[2022-12-07 17:51:39] <+leonidov2> ibabyNotes
+[2022-12-07 17:51:44] <+iSir_Ike> @Kosernik ahh thank you i will check these out <3<3
+[2022-12-07 17:51:53] <Myekos> sort the sizes, find the one that is first under 3000000
+[2022-12-07 17:51:56] <IceKingFlash> More coding
+[2022-12-07 17:52:01] <%cmmeth> just like 3 more lines and you are there
+[2022-12-07 17:52:17] <%brewerdc> Add a depth tracker property to node?
+[2022-12-07 17:52:17] <%banshay3> yes
+[2022-12-07 17:52:22] <%CantTouchDisNow> I had to work in the office today did I drop a lot of leaderboard places monkaS
+[2022-12-07 17:52:29] <%GFQPR1882> @moobot U can’t click ur name on mobile 1Head !
+[2022-12-07 17:52:34] <%DX_Plates> sort directories ascending, iterate until size > needed_size
+[2022-12-07 17:52:36] <%banshay3> Pog
+[2022-12-07 17:53:17] <%Chronoes> @DX_Plates you need to calculate the current amount of free space and then how much you need to delete to have 30M free
+[2022-12-07 17:53:18] <Slymph> @GFQPR1882 Sure u can, its just that nothing happens Kappa
+[2022-12-07 17:53:23] <%banshay3> that's a bug
+[2022-12-07 17:53:33] <ixwt> @DX_Plates Eh, I just did a recursive call, keeping track of the closest number that was greater than the needed amount.
+[2022-12-07 17:53:33] <%banshay3> root_node.size is used space
+[2022-12-07 17:53:36] <Schwee09> total_space - root_node.size
+[2022-12-07 17:54:11] <%banshay3> Pog
+[2022-12-07 17:54:14] <%cmmeth> NODDERS
+[2022-12-07 17:54:20] <%cmmeth> NOPERS
+[2022-12-07 17:54:21] <%Chronoes> that will be negative
+[2022-12-07 17:54:21] <%+W84M3> that will gieva  negative number
+[2022-12-07 17:54:23] <%banshay3> now you have a negative number
+[2022-12-07 17:54:29] <%GFQPR1882> @slymph KEKW waffleD
+[2022-12-07 17:54:36] <yuripaco> lol do u code?
+[2022-12-07 17:54:45] <%deathfurr> now it's negative again
+[2022-12-07 17:54:49] <%banshay3> now if you have a negative number, you have enough space
+[2022-12-07 17:54:53] <$MrMoneybagMan> No elp chat NOPERS
+[2022-12-07 17:55:11] <%Chronoes> >= space_diff, minimum of those
+[2022-12-07 17:55:13] <%cmmeth> put all the node_sizes in a list and than find the right one
+[2022-12-07 17:55:29] <@%$Apparentthreat> Simply tell the admins that all files are necessary and to increase the disk size by 20 GB
+[2022-12-07 17:55:35] <@%Str0ngPaprika> Just sort all the directories?
+[2022-12-07 17:55:41] <%$Thermaight> sizes are unique (for this problem)
+[2022-12-07 17:55:43] <%KoniQ111> print the node size in calc and look at the output Pepega
+[2022-12-07 17:55:48] <%+W84M3> your answer will be the size of directory you will delete... just put all sizes in a lsit, sort it and check the value
+[2022-12-07 17:55:51] <%TigerLuv> Clap Apparentthreat
+[2022-12-07 17:56:00] <%banshay3> @Thermaight and if they weren't it would not matter for the answer
+[2022-12-07 17:56:01] <%$Thermaight> @KoniQ111 and now your scripting
+[2022-12-07 17:56:09] <%cmmeth> leave it all in
+[2022-12-07 17:56:27] <%cmmeth> just add it to a list at the end
+[2022-12-07 17:56:27] <@%$Apparentthreat> TigerLuv it's what I do *shrug* pepeLaugh  We have monitoring software to alert us at certain thresholds. Increasing disk size is better than micromanaging files
+[2022-12-07 17:56:31] <%+W84M3> you dont need to use this function anymore... it already did it's job
+[2022-12-07 17:56:35] <%banshay3> you need that function to calculate the sizes at least once
+[2022-12-07 17:56:49] <%deathfurr> @Apparentthreat format C also does wonders
+[2022-12-07 17:57:07] <@%$Apparentthreat> deathfurr LUL
+[2022-12-07 17:57:16] <%cmmeth> at the end of the function
+[2022-12-07 17:57:21] <%$Thermaight> look @ your input
+[2022-12-07 17:57:33] <%TigerLuv> Apparentthreat this must be a really old problem, cause I remember using all that cod to change cds in Win 3.1
+[2022-12-07 17:57:45] <%banshay3> Clap
+[2022-12-07 17:57:48] <%TigerLuv> cod=code
+[2022-12-07 17:57:55] <%cmmeth> one more line to go PogChamp
+[2022-12-07 17:58:08] <Schwee09> make sure you sort first
+[2022-12-07 17:58:08] <%$Tabakhase> impressive how complicated you made that for yourself KEKW
+[2022-12-07 17:58:15] <%cmmeth> node_sizes.sort()
+[2022-12-07 17:58:52] <%cmmeth> print it
+[2022-12-07 17:59:00] <%deathfurr> uou also need to sum up smaller sizes and see if they add up to 300
+[2022-12-07 17:59:02] <%TigerLuv> Shush  Tabakhase LUL
+[2022-12-07 17:59:04] <Schwee09> break
+[2022-12-07 17:59:13] <%DX_Plates> break
+[2022-12-07 17:59:14] <@%^Moobot> Come join the Waffle House Discord! <# https://discord.gg/fhGFtMuzdS
+[2022-12-07 17:59:19] <%$Thermaight> "
+[2022-12-07 17:59:23] <Kadotettu_> '
+[2022-12-07 17:59:24] <+DevAndyroo> missing closing '
+[2022-12-07 17:59:24] <%Chronoes> ending quote
+[2022-12-07 17:59:25] <%+D_roi_D> close quote
+[2022-12-07 17:59:27] <%banshay3> '
+[2022-12-07 17:59:30] <%cmmeth> send it PogChamp
+[2022-12-07 17:59:38] <%banshay3> Clap
+[2022-12-07 17:59:41] <%cmmeth> EZ Clap
+[2022-12-07 17:59:41] <%brewerdc> With one minute to spare!
+[2022-12-07 17:59:41] <@%Larklen> waffleSPINFASTER Clap
+[2022-12-07 17:59:41] <%brewerdc> Well done
+[2022-12-07 17:59:41] <%+FrostedSentry> cohhBongos
+[2022-12-07 17:59:44] <Kosernik> binary_search devCheck
+[2022-12-07 17:59:45] <%brewerdc> It's a good day
+[2022-12-07 17:59:46] <headbang3rboogie> Clap
+[2022-12-07 17:59:51] <%DX_Plates> @Chronoes See
+[2022-12-07 17:59:52] <%$Thermaight> now your work day begins
+[2022-12-07 17:59:53] <%TigerLuv> waffleSPIN  waffleSPINFASTER  waffleSPIN
+[2022-12-07 17:59:56] <ashooby> HYPERCLAP
+[2022-12-07 17:59:58] <%banshay3> @Tabakhase show off your solution
+[2022-12-07 17:59:59] <+JacobSolo> I used standard lib ‘pathlib’ and got a solution under 15 lines for both parts. So clean and tidy
+[2022-12-07 18:00:00] <@%Larklen> waffleSPINFASTER Clap
+[2022-12-07 18:00:02] <+echoteecat> commit and push to prod
+[2022-12-07 18:00:03] <%Hurtwolf> lets gooo
+[2022-12-07 18:00:10] <%brewerdc> Bag it and tag it
+[2022-12-07 18:00:16] <@%Larklen> now whats the 3 line solution pepeLaugh
+[2022-12-07 18:00:16] <whyando> LGTM!
+[2022-12-07 18:00:16] <+JacobSolo> Def he hardest day so far
+[2022-12-07 18:00:20] <Calhai> lgtm :)
+[2022-12-07 18:00:20] <%$Thermaight> dont ask for a pr
+[2022-12-07 18:00:22] <ashooby> trees are good shit. next make a heap :D
+[2022-12-07 18:00:23] <%$Thermaight> just dont
+[2022-12-07 18:00:23] <%$PaulFlies> Right. On to the next JIRA ticket. No resting on your laurels
+[2022-12-07 18:00:25] <%TigerLuv> did you remove the word F***
+[2022-12-07 18:00:28] <%DX_Plates> No Doc Blocks
+[2022-12-07 18:00:31] <%+Gh3ttoboy> ctrl+a the backspace Kappa
+[2022-12-07 18:00:33] <%GFQPR1882> waffleYes
+[2022-12-07 18:00:36] <%+j_bar111> SeemsGood
+[2022-12-07 18:00:36] <Maximus439> LGTM 👍
+[2022-12-07 18:00:38] <%GFQPR1882> U did great
+[2022-12-07 18:00:40] <%DX_Plates> No Unit Tests
+[2022-12-07 18:00:41] <%Dagmoo> look at a short solution?
+[2022-12-07 18:00:44] <+thennak3> i had to do this question for a google initial screening interview recently
+[2022-12-07 18:00:46] <@%Larklen> waffleSPINFASTER Clap
+[2022-12-07 18:00:47] <%brewerdc> All of that in two hours is pretty poggers
+[2022-12-07 18:00:49] <%$PaulFlies> Unit tests, integration tests devCheck
+[2022-12-07 18:00:52] <Myekos> do it
+[2022-12-07 18:00:57] [Notification] BigBody_47 subscribed at Tier 1. They've subscribed for 70 months, currently on a 70 month streak! [I feel so old]
+[2022-12-07 18:00:57] <%TigerLuv> print(F***) is still part of the code
+[2022-12-07 18:01:05] <IceKingFlash> DarkKnight
+[2022-12-07 18:01:14] <%$Thermaight> now do it without recursion
+[2022-12-07 18:01:22] <%+Gh3ttoboy> and now CTRL + A then press Backspace Kappa
+[2022-12-07 18:01:25] <%KoniQ111> On my technical skill check i had to make an app that replaces one byte sequence with another in all files in chosen directory with chosen extension
+[2022-12-07 18:01:25] <%arkun_> @Thermaight the real test
+[2022-12-07 18:01:26] <%TigerLuv> fuck
+[2022-12-07 18:01:36] <%$PaulFlies> Integral part of the solution YEP
+[2022-12-07 18:01:45] <%Smithii> It's necessary Kappa
+[2022-12-07 18:01:48] <%DX_Plates> Empty Default
+[2022-12-07 18:01:50] <%Chronoes> now it's a syntax error
+[2022-12-07 18:01:51] <Kosernik> send code to Elon
+[2022-12-07 18:01:53] <%brewerdc> break
+[2022-12-07 18:01:56] <@%Larklen> KEKW
+[2022-12-07 18:01:57] <%$Thermaight> `pass`
+[2022-12-07 18:01:57] <%brewerdc> or pass
+[2022-12-07 18:01:58] <ashooby> you need to put `pass` or something
+[2022-12-07 18:01:58] <%banshay3> need to pass that case
+[2022-12-07 18:01:58] <+DevAndyroo> you're not a real dev until you commit "fuck" println's to production Kappa
+[2022-12-07 18:01:59] <imNoxel> indented comment doesn't work
+[2022-12-07 18:01:59] <Calhai> pass
+[2022-12-07 18:01:59] <@%Larklen> now its bwoken
+[2022-12-07 18:02:00] <imNoxel> add pass
+[2022-12-07 18:02:06] <%$PaulFlies> @kosernik he needs to print it out first LUL
+[2022-12-07 18:02:08] <%GFQPR1882> and then
+[2022-12-07 18:02:22] <@%Larklen> print('FUCK') #DO NOT REMOVE, CODE WILL BREAK
+[2022-12-07 18:02:32] <%$Thermaight> now write an ai to solve it for you Kappa
+[2022-12-07 18:02:35] <%deathfurr> 🐍 = python
+[2022-12-07 18:02:37] <Kosernik> @Larklen 👍🏻
+[2022-12-07 18:02:38] <%+VikkeB> does this get gradually more difficult day by day?
+[2022-12-07 18:02:38] <%arkun_> @Larklen widePepeLaugh
+[2022-12-07 18:02:40] <%DX_Plates> Welcome to My Life
+[2022-12-07 18:02:50] <ashooby> one neat trick is to use dicts with the path to the child as keys instead of a Node object
+[2022-12-07 18:03:02] <%$Tabakhase> you made it way harder than it should have been
+[2022-12-07 18:03:04] <ashooby> or stuff like that
+[2022-12-07 18:03:06] <IceKingFlash> Leaderboard time
+[2022-12-07 18:03:12] <%+W84M3> yesterday was one of the easiest and today was the hardest for this year
+[2022-12-07 18:03:21] <%GFQPR1882> @dx_plates waffleLove HACKERMANS
+[2022-12-07 18:03:24] <%+RaxPoks> Dropoff is quite real, if you check Stats page.
+[2022-12-07 18:03:28] <%+j_bar111> Did the rail game come out yet?
+[2022-12-07 18:03:29] <%$Thermaight> dictionaries are just dumb objects
+[2022-12-07 18:03:32] <%DX_Plates> peepoPat GFQPR1882
+[2022-12-07 18:03:37] <Kosernik> if you know tree-structure its an easy problem
+[2022-12-07 18:03:39] <%Awesomeaustin37> you can use nested dicts
+[2022-12-07 18:03:52] <ashooby> I used dicts
+[2022-12-07 18:03:54] <%$Tabakhase> that whole tree thing is smoke you didnt need - just absolute filepaths, foreach this and condense to directories splitting on / ignoring the last (filename)
+[2022-12-07 18:03:56] <%$Tabakhase> done
+[2022-12-07 18:03:57] <%TigerLuv> it was very hard to try to not type
+[2022-12-07 18:03:57] <%+BossHog6295> Hi
+[2022-12-07 18:04:04] <@%ninopanda> im gaining on you waffle
+[2022-12-07 18:04:05] <nighthalk15_2> i used a class which internally had dictionaries
+[2022-12-07 18:04:08] <%shacodoo> waffleBoi
+[2022-12-07 18:04:08] <@%ninopanda> i am #52
+[2022-12-07 18:04:17] <%GFQPR1882> @ninopanda BB waffleLove
+[2022-12-07 18:04:20] <Myekos> I would have done this with a single dictionary for part 1, then add a list to sort for part 2
+[2022-12-07 18:04:23] <%KoniQ111> "EZ top 3... 16TH?!!!!"
+[2022-12-07 18:04:23] <Dude_S14> Still top 10 aicHYPE
+[2022-12-07 18:04:26] <nottonacid> Dwarf Fortress today?
+[2022-12-07 18:04:28] <%TigerLuv> Chronoes is 18
+[2022-12-07 18:04:36] <HiddenDrop> Just joined, what are we trying to solve?
+[2022-12-07 18:04:39] <@%ninopanda> @GFQPR1882 hey buddy
+[2022-12-07 18:04:43] <%$Thermaight> knowing that the input is already a tree traversal, you can actually do it as a running problem and never build the tree
+[2022-12-07 18:04:46] <%NevaDaha> Man number 49 has such a cool name pokiW
+[2022-12-07 18:04:49] <Spirevipp> being eu makes it almost impossible to get top scores for teh day Sadge
+[2022-12-07 18:04:52] [Notification] Romes241 subscribed at Tier 1. They've subscribed for 33 months, currently on a 18 month streak!
+[2022-12-07 18:04:53] <%+DonnieQuest> im sure you probably talked about this already but has anyone tried to use ChatGPT to solve these?
+[2022-12-07 18:04:54] <%Chronoes> @TigerLuv why you gotta rat me out Kappa
+[2022-12-07 18:05:05] <nottonacid> Whats ixion?
+[2022-12-07 18:05:07] <%GFQPR1882> LUL
+[2022-12-07 18:05:08] <Alminta> So leaderboard is basically who gets up early?
+[2022-12-07 18:05:08] <JayPeaSize> so... 50 minutes to play DF then
+[2022-12-07 18:05:13] <%TigerLuv> I am so happy for you!!! Chronoes
+[2022-12-07 18:05:17] <%KoniQ111> @DonnieQuest ChatGPT solvers have not done this i think
+[2022-12-07 18:05:17] <%+W84M3> i ended up using a directory list that would link to the parent and keep the sizes updated that way with recursion, kind of a tree, but not really
+[2022-12-07 18:05:24] <ashooby> yeah, this was a great problem. I'm a fan of tree related things :p
+[2022-12-07 18:05:26] <%+lcePops> did we do it
+[2022-12-07 18:05:27] <%+OMICRON> @NevaDaha waffleHOMIE
+[2022-12-07 18:05:28] <@%Larklen> wait a minute
+[2022-12-07 18:05:31] <%+DonnieQuest> @DonnieQuest Gotcha
+[2022-12-07 18:05:34] <IceKingFlash> Minecraft time ??
+[2022-12-07 18:05:43] <%banshay3> @Thermaight that only works if the traversal is not jumping
+[2022-12-07 18:05:44] <%GFQPR1882> @icekingflash 19th
+[2022-12-07 18:05:46] <@%Larklen> what the /day1/day7.py
+[2022-12-07 18:05:48] <LeWoodie> 1 deep dive in saturn before ixion YEP
+[2022-12-07 18:05:48] <@%Larklen> OMEGALUL
+[2022-12-07 18:06:01] <%$Thermaight> @banshay3 I don't think it does in this case -- all you need is a stack of ints
+[2022-12-07 18:06:01] <@%Larklen> just change the folder name
+[2022-12-07 18:06:05] <@%Larklen> pepeLaugh
+[2022-12-07 18:06:09] <IceKingFlash> @gfqpr1882 joke btw
+[2022-12-07 18:06:09] <%Chronoes> @TigerLuv thanks waffleEgg
+[2022-12-07 18:06:09] <%TigerLuv> find and replace?
+[2022-12-07 18:06:11] <ashooby> pycharm might be smart enough to fix it for you
+[2022-12-07 18:06:15] <%+W84M3> chaneg the fodler name to 2022
+[2022-12-07 18:06:18] <%Allmostdone> Yep Minecraft time
+[2022-12-07 18:06:19] <%+W84M3> folder**
+[2022-12-07 18:06:25] <%cmmeth> rename NODE ... class use PascalCase
+[2022-12-07 18:06:29] <%$Thermaight> rename folder "src"
+[2022-12-07 18:06:30] <Spirevipp> use shift+f6 to refactor, it will fix all references
+[2022-12-07 18:06:34] <%KoniQ111> I saw some people doing previous ones in a few seconds (GPT), they are not on today's leaderboard i think
+[2022-12-07 18:06:34] <@%Larklen> File Explorer pepeLaugh
+[2022-12-07 18:06:34] <whyando> just drag and drop all the children
+[2022-12-07 18:06:35] <%+DecoyOcelot> whats the leaderboard code?
+[2022-12-07 18:06:38] <MoshiMoshi0> @Giantwaffle select all files and drag them over the top directory?
+[2022-12-07 18:06:39] <%banshay3> @Thermaight if at one point the  statements are cd / cd y you're fucked LUL
+[2022-12-07 18:06:39] <%GFQPR1882> @icekingflash waffleDude waffleNote LUL
+[2022-12-07 18:06:49] <PaulSam1016> i thnk refactor changes code too, not sure
+[2022-12-07 18:06:52] <%banshay3> no
+[2022-12-07 18:06:56] <%brewerdc> Camel-case for me
+[2022-12-07 18:06:56] <%Chronoes> PascalCase
+[2022-12-07 18:06:57] <%cmmeth> Node would be right
+[2022-12-07 18:06:57] <%arkun_> camelcase
+[2022-12-07 18:06:58] <stevemc356> start Capital
+[2022-12-07 18:07:06] [Notification] Strider1515 subscribed at Tier 1. They've subscribed for 11 months! [Happy Hump day Waffle and Chat]
+[2022-12-07 18:07:08] <%brewerdc> Kappa
+[2022-12-07 18:07:13] <%+W84M3> PascalCase for sure
+[2022-12-07 18:07:22] <@%Larklen> GaMeRcAsE for me
+[2022-12-07 18:07:22] <@%^Moobot> You can find Waffle's Youtube channel here - https://youtube.com/giantwaffle
+[2022-12-07 18:07:26] <Riddixdan> look ma, I'm on the top list
+[2022-12-07 18:07:31] <GohandasMandi> Oh dang, that Ixion release trailer that just dropped looks clean
+[2022-12-07 18:07:35] <%$Thermaight> @banshay3 I'm not saying its a general solution, i am saying that you can do it in O(#lines) and memory space of max depth (because we make assumptions)
+[2022-12-07 18:07:39] <ashooby> the guy who got the 2 stars firs tdid this in like 5 minutes. so fast
+[2022-12-07 18:07:39] <%+Yemtron> Man, I wish I had chat as a rubber duck
+[2022-12-07 18:07:41] <@%$Apparentthreat> tomorrow you write your own OS
+[2022-12-07 18:07:49] <Nincy1986> day 8
+[2022-12-07 18:07:51] <stevemc356> is this strictly python?
+[2022-12-07 18:07:56] [Notification] sam1390 subscribed with Prime. They've subscribed for 23 months!
+[2022-12-07 18:08:08] <%KoniQ111> Tomorrow you turn an input into the legendary doge image
+[2022-12-07 18:08:11] <%Allmostdone> @yemtron But we are a rubber duck
+[2022-12-07 18:08:17] <%Dagmoo> tomorrow could be really easy again. this happened last year too.
+[2022-12-07 18:08:18] <@%Larklen> KEKW
+[2022-12-07 18:08:22] <%TigerLuv> Apparentthreat tomorrow he fixes the alert? LUL
+[2022-12-07 18:08:22] <Slymph> GIGACHAD Engine? PauseChamp
+[2022-12-07 18:08:26] <Boefst> Saw someone using unity
+[2022-12-07 18:08:28] <%samger0> ther are some excel attempts too
+[2022-12-07 18:08:28] <%deathfurr> superhypersupercatJAM
+[2022-12-07 18:08:37] <%+Yemtron> @Allmostdone 🦆
+[2022-12-07 18:08:40] <%banshay3> where can we see those solutions?
+[2022-12-07 18:08:41] <@%ninopanda> That is me
+[2022-12-07 18:08:42] <@%Larklen> Stare VBA
+[2022-12-07 18:08:43] <%brewerdc> VBA
+[2022-12-07 18:08:49] <@%ninopanda> VBA in excel
+[2022-12-07 18:08:53] <ashooby> I'm using Ruby this year. it's a fun language.
+[2022-12-07 18:08:54] <Boefst> The adventofcode reddit is great
+[2022-12-07 18:08:55] <%$Mandorake> the world used to run off of VBA
+[2022-12-07 18:08:57] <%banshay3> excel will work for a surprisingly long time LUL
+[2022-12-07 18:09:06] <%Allmostdone> @yemtron QUACK
+[2022-12-07 18:09:06] <%+ItsOnMax> that's me YEP have been buzzy the last few days tho, so was not able to continue with Unity Sadge
+[2022-12-07 18:09:07] <@%Larklen> @Mandorake used to?? Stare
+[2022-12-07 18:09:09] <@%Larklen> widePepeLaugh
+[2022-12-07 18:09:13] <Nishok> Asembly anyone? :D
+[2022-12-07 18:09:14] <%NevaDaha> hey my little butterfly @Giantwaffle can you try if you can do !neva ? anniesSHY
+[2022-12-07 18:09:27] <%Chronoes> Elixir here
+[2022-12-07 18:09:28] <%$Mandorake> @Larklen now its javascript pepeLaugh
+[2022-12-07 18:09:32] <ashooby> You should try Ruby before you knock it... it's a great little language.
+[2022-12-07 18:09:40] <%arkun_> advent of code is a good opportunity to learn a new language
+[2022-12-07 18:09:46] <%+kuba_91> can you look at other solutions?
+[2022-12-07 18:09:48] <%$GyroHD_> Unreal engine 5 blueprint 😂
+[2022-12-07 18:09:53] <%$Mandorake> @Giantwaffle im sure chat helping made it faster smile
+[2022-12-07 18:09:54] <%banshay3> now sleep on it and do again tomorrow
+[2022-12-07 18:10:15] <SirApocalipsys> Congrats on the challenge
+[2022-12-07 18:10:24] <@%$Apparentthreat> @Giantwaffle you can do !neva btw
+[2022-12-07 18:10:34] <%$GyroHD_> Could u do it on Unreal Engine 5 blue prints?
+[2022-12-07 18:10:42] <%NevaDaha> do it!
+[2022-12-07 18:10:43] <%CiVR> civr2Fishbang
+[2022-12-07 18:10:44] <%Chronoes> Clap
+[2022-12-07 18:10:44] <%brewerdc> Object Oriented Programming ftw
+[2022-12-07 18:10:48] <@%$Apparentthreat> bc you complained wym pepeLaugh
+[2022-12-07 18:10:56] <@%$Apparentthreat> civr2Fishbang IceCold
+[2022-12-07 18:10:58] <@%$Apparentthreat> dammit
+[2022-12-07 18:11:00] <noktuh> oop hurts dude
+[2022-12-07 18:11:00] <%$Mandorake> @Giantwaffle you're honestly ready for a programming job
+[2022-12-07 18:11:02] <@%$Apparentthreat> civr2Fishbang  IceCold
+[2022-12-07 18:11:04] <@%$Apparentthreat> twitch l
+[2022-12-07 18:11:06] <Slymph> @Apparentthreat Close PepLaugh
+[2022-12-07 18:11:10] <+elric689> Have you watched  Stuff Made Here python program to put together a rl puzzle and die inside
+[2022-12-07 18:11:12] <Nincy1986> yes
+[2022-12-07 18:11:13] <Kosernik> oop is just one of the tools
+[2022-12-07 18:11:14] <%$GyroHD_> @giantwaffle Could u do it on Unreal Engine 5 blue prints?
+[2022-12-07 18:11:17] <%$Mandorake> @noktuh its just another tool in the toolbox
+[2022-12-07 18:11:23] <%Tenkaichi500> !neva
+[2022-12-07 18:11:23] <@%$Apparentthreat> You're not Neva susHmm
+[2022-12-07 18:11:27] <RpidFrTommyGun> Where do I look at the excel solution? lol
+[2022-12-07 18:11:27] <%Venxuri> Whiteboard omg
+[2022-12-07 18:11:34] <noktuh> @noktuh true, i just find it so hard to learn
+[2022-12-07 18:11:35] <%deathfurr> u can do it in paint
+[2022-12-07 18:11:55] <ixwt> @RpidFrTommyGun There might be some posted on the AdventOfCode subreddit.
+[2022-12-07 18:12:00] <SirApocalipsys> Depends on the puzzle
+[2022-12-07 18:12:02] <AleXanDreMau> @Giantwaffle did you watch the kurzgesagt video?
+[2022-12-07 18:12:02] <%NevaDaha> @Apparentthreat one day COPIUM
+[2022-12-07 18:12:18] <@%$Apparentthreat> NevaDaha you'll have to do it yourself. it's working again.
+[2022-12-07 18:12:19] <deep5> Did you watch stuffmadehere video
+[2022-12-07 18:12:21] <Nishok> Those where ALL white puzzles.
+[2022-12-07 18:12:25] BAN: NevaDaha (923s), NevaDaha (923s)
+[2022-12-07 18:12:25] <%NevaDaha> !neva
+[2022-12-07 18:12:29] <@%$Apparentthreat> NevaDaha has been timed out for 923 seconds. Hopefully RNG was in your favor
+[2022-12-07 18:12:32] <RpidFrTommyGun> @ixwt Cool, I'll check it out. Thanks!
+[2022-12-07 18:12:32] <SirApocalipsys> Some puzzle are NP complete so basically almost impossible to solve with computers
+[2022-12-07 18:12:32] <@%$Apparentthreat> short one pog
+[2022-12-07 18:12:45] <@%Larklen> no attempt widepeepoSad
+[2022-12-07 18:12:49] <%Hurtwolf> Ants taking over
+[2022-12-07 18:12:49] <@%$Apparentthreat> NevaDaha RNG *was* in your favor
+[2022-12-07 18:12:57] <The_Holas> slaver ants monkaHmm maybe
+[2022-12-07 18:12:58] <%+Gh3ttoboy> wow 15 minute time out you got lucky
+[2022-12-07 18:12:59] <%Allmostdone> Congrats Neva
+[2022-12-07 18:12:59] <%Venxuri> Ants taking over the universe
+[2022-12-07 18:13:01] <@%$Apparentthreat> you measure ants by mass or something; it's easier
+[2022-12-07 18:13:12] <+CorSPACE> ant metropolis'
+[2022-12-07 18:13:20] <noktuh> they are planning an ant revolution for years
+[2022-12-07 18:13:25] <deep5> monkaS
+[2022-12-07 18:13:27] <@%Larklen> American Ants MONKERS
+[2022-12-07 18:13:30] <+SymbolicLegend> Hey waffle don’t you usually take your vacation after streamvember?
+[2022-12-07 18:13:32] <%banshay3> by number you mean?
+[2022-12-07 18:13:34] <%optimalpotato> 20 quadrillion according to google
+[2022-12-07 18:13:35] <%$PaulFlies> D:
+[2022-12-07 18:13:36] <Murfles> insect biomass outweighs all animal biomass as well
+[2022-12-07 18:13:40] <mxcannondale> does waffle have a github?
+[2022-12-07 18:13:44] <+leonidov2> ibabyNotes
+[2022-12-07 18:13:46] <The_Holas> slav... he mean interns? Kappa
+[2022-12-07 18:13:47] <Kilderash> 2.5 million ants per person @Giantwaffle
+[2022-12-07 18:13:53] <%banshay3> damn
+[2022-12-07 18:13:54] <ixwt> I think it's orders of magnitudes of mass of ants than mass of humans.
+[2022-12-07 18:13:56] <GohandasMandi> The earth doesn't have a molten core, its just the ambient heat & gravity of ants moving around
+[2022-12-07 18:13:57] <+iSir_Ike> this aint the ants i saw when i was a kid
+[2022-12-07 18:14:05] <Calhai> WutFace
+[2022-12-07 18:14:12] <Nincy1986> have seen the picture of a concrete structure of an ant nest?
+[2022-12-07 18:14:15] <agerbialsdiary> This whole channel (the youtube) is so good.
+[2022-12-07 18:14:17] <%+W84M3> talking about slavery with ant analogy kinda helps understand colonialism /s
+[2022-12-07 18:14:29] <+iSir_Ike> @Nincy1986 yooo that is soo coool
+[2022-12-07 18:14:36] <%cmmeth> monkaS
+[2022-12-07 18:14:39] <agerbialsdiary> all bout queen
+[2022-12-07 18:14:39] <noktuh> wait they are at the slave era, when will they create conscious?
+[2022-12-07 18:14:42] <%Hurtwolf> i can relate
+[2022-12-07 18:14:46] <%0v3rfl0w> waffleT1 waffleT2 waffleT3
+[2022-12-07 18:14:49] <%0v3rfl0w> waffleT4 waffleT5 waffleT6
+[2022-12-07 18:14:53] <@%Larklen> Clap
+[2022-12-07 18:14:56] <%Hurtwolf> Clap
+[2022-12-07 18:14:57] <The_Holas> Clap
+[2022-12-07 18:15:02] <Krystalchan> Clap
+[2022-12-07 18:15:04] <%$PaulFlies> Clap
+[2022-12-07 18:15:04] <KABBL> like theHoly Roman Empire lol
+[2022-12-07 18:15:08] <%brewerdc> Clap
+[2022-12-07 18:15:08] <Kosernik> Clap2
+[2022-12-07 18:15:11] <noktuh> Clap
+[2022-12-07 18:15:11] <+CorSPACE> sooo they're sweaty pvpers
+[2022-12-07 18:15:11] <GohandasMandi> Clap
+[2022-12-07 18:15:12] <%+mrtraxx> Clap
+[2022-12-07 18:15:12] <HeartlessM> these ants were sponsored by Raid shadow....
+[2022-12-07 18:15:13] <SirApocalipsys> Clap2 Clap
+[2022-12-07 18:15:18] <Myekos> they included a death spiral :)
+[2022-12-07 18:15:34] <%$PaulFlies> monkaS
+[2022-12-07 18:15:34] <@%^Moobot> You can sub to Waffle by clicking this neat link -> twitch.tv/giantwaffle/subscribe SUBprise
+[2022-12-07 18:16:02] <+CorSPACE> ant sim when

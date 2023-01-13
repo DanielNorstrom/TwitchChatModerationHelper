@@ -1,0 +1,1135 @@
+# Log started: 2022-12-07 17:32:26 +0100
+[2022-12-07 17:32:26] ~Learning & Muddling Through (Dwarf Fortress)~
+[2022-12-07 17:32:26] Joining #ambiguousamphibian..
+[2022-12-07 17:32:26] You have joined #ambiguousamphibian
+[2022-12-07 17:32:26] VIEWERS: 2 430
+[2022-12-07 17:32:28] <fratriarch> it makes 10 if theres less than 25?
+[2022-12-07 17:32:29] <+teraaabyte> 25 is the condition, 10 is the amount to be made
+[2022-12-07 17:32:31] <Dumbsnarky> That's how many times they will do the task when the condition is triggered.
+[2022-12-07 17:32:34] <MyuraJinsei> ı didnt played before
+[2022-12-07 17:32:35] <HowlingBark7> @ambiguousamphibian 25 is the check, 10 is hte work amount
+[2022-12-07 17:32:38] <ChilliDogDave> @ambiguousamphibian manager being a dummy and guessing because he doesnt have an office
+[2022-12-07 17:32:46] <liiqi_> ambiSnek
+[2022-12-07 17:32:48] <cloudsoda> you only got 10 plump helmets?
+[2022-12-07 17:32:56] <+Retro42JL> Cooking is kinda a bad idea until you have a solid farm/seed supply
+[2022-12-07 17:33:00] <%+seymour47> So, if you have 25, it makes 10?
+[2022-12-07 17:33:04] <%thejatman_> This game looks just as complicated as I thought it would
+[2022-12-07 17:33:10] <%+JaneWhitwork> Are ya winnin' son?
+[2022-12-07 17:33:14] <fratriarch> brews 25 if below 25 now
+[2022-12-07 17:33:15] <$deadlikeyou11> if you have 24, you will make 10 more. if you have 14, you will make 10, then make 10 more
+[2022-12-07 17:33:20] <fratriarch> sounds good
+[2022-12-07 17:33:26] <+teraaabyte> @seymour47 now you changed it to make 25 when less than 25
+[2022-12-07 17:33:33] <Stretchbuddy> Yeah agreed
+[2022-12-07 17:33:34] <parawerke> 10 is the step size
+[2022-12-07 17:33:46] <YourShadowDani> tileset looks great
+[2022-12-07 17:33:48] <seraphimdunham> wait is that silver in the main enterence hall?
+[2022-12-07 17:33:51] <cloudsoda> I like that you get to customize the fuck out of your king in CK
+[2022-12-07 17:33:54] <suckscriber> that wasnt only in ck3
+[2022-12-07 17:33:54] <KnukN> you should rename a dwarf to "john beard"
+[2022-12-07 17:33:56] <TheRoggle> He doesn't like the game btw
+[2022-12-07 17:33:58] VIEWERS: 2 430
+[2022-12-07 17:34:02] <suckscriber> or was it
+[2022-12-07 17:34:03] <Sherkath> is this version just as complex as the text-based one?
+[2022-12-07 17:34:11] <+teraaabyte> @Sherkath yes
+[2022-12-07 17:34:15] <%akrogon> @Sherkath Yep, just improved UI
+[2022-12-07 17:34:20] <seraphimdunham> @Sherkath it is the text based one with a coat of paint and a new ui
+[2022-12-07 17:34:22] <Stretchbuddy> @Sherkath Easier to use, just as complex.
+[2022-12-07 17:34:24] <cystic_pizza> @Sherkath it's the exact same game with mouse support and graphics
+[2022-12-07 17:34:25] <+Retro42JL> Same game, new ui
+[2022-12-07 17:34:26] <+teraaabyte> @Sherkath but with way better GUI and tutorials
+[2022-12-07 17:34:29] <%akrogon> The engine is virtually identical
+[2022-12-07 17:34:51] <fastets> rush b
+[2022-12-07 17:34:51] <%akrogon> Although different enough that the DFHack contributors have to redo all their memory mapping
+[2022-12-07 17:34:52] <Sherkath> Aaah, I see, so all the crazy shenanigans are still in this one, perfect xD
+[2022-12-07 17:34:55] <Bohnenblatt> @Sherkath yes just improved UI. That is different from previous iterations. So veteran players need to learn controls again
+[2022-12-07 17:34:57] <TheRoggle> Does anything ever happen in this game? How long till something interesting happens?
+[2022-12-07 17:34:58] <FrozenMonkey> Pdoors.  the P is silent
+[2022-12-07 17:35:07] <+moldy_fuzz> i heard performance is greatly improved over the original too?
+[2022-12-07 17:35:08] <%akrogon> Yes, shenanigans (!!FUN!!) are untouched
+[2022-12-07 17:35:09] <+Retro42JL> AFAIK the whole no adventure mode thing isn't engine related but no UI made yet
+[2022-12-07 17:35:11] <KnukN> are there enemies that can break down doors
+[2022-12-07 17:35:17] <Alisphere> ambiSnek
+[2022-12-07 17:35:17] <juaneshpta> ambiSnek
+[2022-12-07 17:35:20] <cloudsoda> @KnukN yes LUL
+[2022-12-07 17:35:20] <Rexxig> anyone experiencing random crashes ?
+[2022-12-07 17:35:21] <silhoucat> Tudors?
+[2022-12-07 17:35:22] <%akrogon> @moldy_fuzz I hope that's true, it's still single threaded AFAIK
+[2022-12-07 17:35:24] <cloudsoda> "clowns" can
+[2022-12-07 17:35:27] <+teraaabyte> @TheRoggle zombie, wild animal, goblin attack, just to name a few
+[2022-12-07 17:35:27] <WellingtonSkellington> @KnukN yes
+[2022-12-07 17:35:28] <Bohnenblatt> @KnukN Yes. But not everything that attacks you
+[2022-12-07 17:35:31] <+hyperhopper> @TheRoggle depends on how happy he keeps his dwarfs, depends on how far he digs, depends on how much wealth his fort generates
+[2022-12-07 17:35:33] <+A_fluffy_pillow> Any cell biologists/microbiologists here and fancy helping me with an exam? LUL
+[2022-12-07 17:35:42] <+kralec> oh my god! WOOD! Clap
+[2022-12-07 17:35:44] <KnukN> yeah usually I go with drawbridge
+[2022-12-07 17:35:45] <+moldy_fuzz> @moldy_fuzz I saw some saying it has more multithreading but didn't see a source
+[2022-12-07 17:35:50] <+teraaabyte> @A_fluffy_pillow something something semipermeable membrane
+[2022-12-07 17:35:55] <%+JaneWhitwork> Corpses
+[2022-12-07 17:35:58] VIEWERS: 2 477
+[2022-12-07 17:35:59] <Moon_feral> No longer touch grass, but touch wood
+[2022-12-07 17:36:00] <%akrogon> @moldy_fuzz Ooo, I hope so!!
+[2022-12-07 17:36:05] <cystic_pizza> naw keep corpses outside
+[2022-12-07 17:36:06] <Bohnenblatt> @ambiguousamphibian you see food stocks at the top
+[2022-12-07 17:36:08] <+A_fluffy_pillow> @A_fluffy_pillow Incredible, thank you
+[2022-12-07 17:36:09] <cystic_pizza> if you keep them inside you'll get miasma
+[2022-12-07 17:36:12] <cystic_pizza> and everyone barfs
+[2022-12-07 17:36:19] <seraphimdunham> slapdash?
+[2022-12-07 17:36:22] <cloudsoda> top UI needs little icons for food and stuff, like in age of empires
+[2022-12-07 17:36:24] <+hyperhopper> @TheRoggle if you are a little tiny hole in the ground nothing fucks with you. if you fuck up, your fort will start to collapse on itself though. and if you make a dank fort, then FUN starts to come for you
+[2022-12-07 17:36:31] <%+JaneWhitwork> @cystic_pizza No honest dwarf would want to be buried above ground ;)
+[2022-12-07 17:36:31] <+SouDescolado> Bottom left stockpile not symmetrical. Please fix?
+[2022-12-07 17:36:39] <Yellowone_1> in the end of the day, a cemetery is just a corpses stockpile
+[2022-12-07 17:36:47] <LaidBackTaps> beeHi
+[2022-12-07 17:36:52] <%+AngrMgmt00> DWORBZ
+[2022-12-07 17:36:53] <theeblarg23> DORFS :D
+[2022-12-07 17:36:53] <%akrogon> @Yellowone_1 this man corpses
+[2022-12-07 17:36:53] <emp_john_romero> in moria~ in kazhad dum~
+[2022-12-07 17:36:54] <cloudsoda> adorbs
+[2022-12-07 17:36:59] <cystic_pizza> @cystic_pizza i guess youc an keep them underground, just keep them away from like, general areas
+[2022-12-07 17:36:59] <seraphimdunham> ponder the dworb
+[2022-12-07 17:36:59] <%+Yodathecool1> Dorfs!!
+[2022-12-07 17:36:59] <Druss_M> Dweebs
+[2022-12-07 17:37:06] <TapdancingNinja> “I’m going to do another line here”
+[2022-12-07 17:37:08] <cystic_pizza> the miasma pisses dorfs off and makes them sick lol
+[2022-12-07 17:37:18] <AntiOrdinary> its dworbin time
+[2022-12-07 17:37:20] <TapdancingNinja> Totally cant be taken out of context’s
+[2022-12-07 17:37:31] <+Doffney> Rimworld was inspired by Dwarf fortress no?
+[2022-12-07 17:37:32] <emp_john_romero> the dwarfs are economical
+[2022-12-07 17:37:32] <seraphimdunham> i will admit sometimes i like playing rimworld
+[2022-12-07 17:37:32] <cloudsoda> is there friendly fire in dorf?
+[2022-12-07 17:37:36] <+moldy_fuzz> 2x3, such luxury
+[2022-12-07 17:37:41] <+GShogun> 1x3 forever (:
+[2022-12-07 17:37:45] <069lelele069> dwarves are not as whiny
+[2022-12-07 17:37:45] <emp_john_romero> @Doffney duplos and legos
+[2022-12-07 17:37:47] <pieboy321> 1x2 is the way, bed and door
+[2022-12-07 17:37:47] <Aquahelix> Look at these lavish betrooms. 1/1 is more that they deserve!
+[2022-12-07 17:37:48] <+GShogun> cubbyholes
+[2022-12-07 17:37:50] <cloudsoda> or if youre japanese it's normal
+[2022-12-07 17:37:52] <+teraaabyte> @Doffney yeah
+[2022-12-07 17:37:54] <fratriarch> a claustophobic dwarf? Im pretty sure those are given to the elves
+[2022-12-07 17:37:57] <069lelele069> 2x2
+[2022-12-07 17:37:58] VIEWERS: 2 477
+[2022-12-07 17:38:00] <%+JaneWhitwork> The dorbz do not fear small spaces
+[2022-12-07 17:38:02] <%akrogon> I love Rimworld and DF, but definitely prefer DF
+[2022-12-07 17:38:09] <Zyhmos> @ambiguousamphibian Ctrl+R record. Ctrl+P play
+[2022-12-07 17:38:12] <liiqi_> hai der, came from yt! I wanted to say that your videos are so nice and calming!
+[2022-12-07 17:38:14] <+teraaabyte> 3x3 is luxury
+[2022-12-07 17:38:31] [Notification] Ziclez subscribed with Prime.
+[2022-12-07 17:38:35] <tribaja> @ambiguousamphibian The button next to the feather
+[2022-12-07 17:38:35] <cloudsoda> punch it?
+[2022-12-07 17:38:36] <timeandaraf> click the wagon
+[2022-12-07 17:38:37] <+teraaabyte> top right
+[2022-12-07 17:38:41] <seraphimdunham> @ambiguousamphibian the little X at the top right corner
+[2022-12-07 17:38:43] <Boraxx92> click on it, then the decunstuct icon
+[2022-12-07 17:39:00] <%+JaneWhitwork> This is like watching an ant farm
+[2022-12-07 17:39:03] <+moldy_fuzz> I have noticed it's easy to miss alerts
+[2022-12-07 17:39:15] <+teraaabyte> @moldy_fuzz yeah they no longer pause the game for most alerts
+[2022-12-07 17:39:19] <+SouDescolado> Stockpile bottom left not symmetrical
+[2022-12-07 17:39:19] <cloudsoda> click on the wagon itself
+[2022-12-07 17:39:23] <%akrogon> @moldy_fuzz I saw a workshop mod just today that adds an alert sound
+[2022-12-07 17:39:24] <%+seymour47> Never forgiven.
+[2022-12-07 17:39:27] <+GShogun> @moldy_fuzz yeah i've noticed that as as common complaint
+[2022-12-07 17:39:28] <seraphimdunham> you need to select the wagon first! @ambiguousamphibian
+[2022-12-07 17:39:33] <+GShogun> it's not as prominent as it could be
+[2022-12-07 17:39:44] <+moldy_fuzz> @moldy_fuzz nice!! gonna check it out
+[2022-12-07 17:39:51] <Sch0ckrazor> If you click on a dwarf you can use the camera icon to follow him around
+[2022-12-07 17:39:56] <ExtraRaven> can you make your dwarf fortress outside
+[2022-12-07 17:39:58] VIEWERS: 2 424
+[2022-12-07 17:40:00] <kagirabunne> GOLD
+[2022-12-07 17:40:04] <+imscomobob> @ambiguousamphibian when you build - if you toggle advanced options, you can set work priority
+[2022-12-07 17:40:05] <timeandaraf> You can set mining priorities by expanding. So you can set this mine at priority 1 - 10 or something like that
+[2022-12-07 17:40:22] <nagamommy> dwarves have offices? my mind is blown
+[2022-12-07 17:40:29] <+moldy_fuzz> i forgot how quickly time passes when i play this game... almost stayed up all night
+[2022-12-07 17:40:34] <%akrogon> @ExtraRaven You definitely can, but dwarves are much faster at digging than building
+[2022-12-07 17:40:34] <%+slippry_john> oh boy, more than two tiles for the dwarven rooms, how opulent
+[2022-12-07 17:40:44] <%akrogon> ^ LUL
+[2022-12-07 17:40:45] <casinocop> this looks complicated
+[2022-12-07 17:40:51] <kagirabunne> @nagamommy Where else is your bookkeeper going to count every mushroom
+[2022-12-07 17:40:53] <+teraaabyte> @ambiguousamphibian if your manager doesn't have an office you can't give orders
+[2022-12-07 17:40:59] <cloudsoda> @ambiguousamphibian if you click the wagon itself you can deconstruct it by clicking the x in the corner
+[2022-12-07 17:41:05] <emma_smileyface> tysm for this tutorial, this is great
+[2022-12-07 17:41:06] <TapdancingNinja> Do we have booze yet
+[2022-12-07 17:41:18] <RutgerRNG> He hasnt deconstructed his wagon yet?
+[2022-12-07 17:41:26] <+imscomobob> "Use Closest Material"
+[2022-12-07 17:41:30] <+Tooizy> You can use the closest material option
+[2022-12-07 17:41:30] <HowlingBark7> @ambiguousamphibian is you select use nearest material when building, you wont have to select which door to use
+[2022-12-07 17:41:38] <skinnyhunn> zippy zippy hole
+[2022-12-07 17:41:55] <RutgerRNG> oh shit bedrooms are zones now?
+[2022-12-07 17:41:57] <emp_john_romero> the dwarfs  see the difference
+[2022-12-07 17:41:58] VIEWERS: 2 587
+[2022-12-07 17:42:05] <pieboy321> you should include the walls, it increases the value of the room and can give happy thoughts
+[2022-12-07 17:42:15] <%akrogon> If you include the walls in the room zone and engrave them, the engravings contribute to the room quality
+[2022-12-07 17:42:20] <Bohnenblatt> @RutgerRNG yes but you can select multiple rooms with one click
+[2022-12-07 17:42:22] <%+JaneWhitwork> I am a dorf and I'm dorfing a dorf, dorfing a dorf, dorfy dorfy dorf
+[2022-12-07 17:42:27] <+teraaabyte> @RutgerRNG you can mass designate bedrooms now if they are in separate rooms with doors and beds
+[2022-12-07 17:42:45] <RutgerRNG> My mind is being blown by the minute
+[2022-12-07 17:42:47] <kagirabunne> @ambiguousamphibian If you select Multi before placing hte bedroom, you can select a whole row of rooms in the rectangle and it will make a room for each one as long as they're enclosed
+[2022-12-07 17:43:05] <cloudsoda> you get swamped
+[2022-12-07 17:43:12] <+Tooizy> You got some migrants comming right now @ambiguousamphibian !
+[2022-12-07 17:43:19] <%akrogon> @RutgerRNG My muscle memory is absolutely rekt
+[2022-12-07 17:43:43] <kagirabunne> Needs chairs
+[2022-12-07 17:43:44] <lithaiku> ah yes, the first people that get rooms are the government, army and scholar dwarves. this will be the basis of dwarf proletariat revolution war in the future
+[2022-12-07 17:43:46] <TheRoggle> Man this game is a sleeping aid
+[2022-12-07 17:43:47] <cloudsoda> lol
+[2022-12-07 17:43:49] [Points] cloudcore92 redeemed Contribute to Cult's Totem (500)
+[2022-12-07 17:43:50] <Bohnenblatt> you need chairs for an office
+[2022-12-07 17:43:50] <+moldy_fuzz> ahh yes, more migrants to drink our mushroom wine
+[2022-12-07 17:43:56] <+pvtbones> needs furntiure first
+[2022-12-07 17:43:57] <cloudsoda> just sit on the floor
+[2022-12-07 17:43:57] <bigscreebo> make sure you do multi cause I gave all my bedrooms to one dwarf last night lololol
+[2022-12-07 17:43:59] <+GShogun> i wish that classic control options were a thing, but then again, i think that's what the original version is for heh
+[2022-12-07 17:43:59] VIEWERS: 2 587
+[2022-12-07 17:44:02] <kedzar> so hows this version, it's the same, better or worse than the original edition of DF ?
+[2022-12-07 17:44:10] <kagirabunne> @ambiguousamphibian Yeah you're doing it right, it just needs the furniture or at least a chair
+[2022-12-07 17:44:11] [Notification] Othixz subscribed with Prime.
+[2022-12-07 17:44:13] <emp_john_romero> we love muddling through
+[2022-12-07 17:44:19] <earthmeLon> WTF How is this only available for Windows and not Linux?!  Laaaaame
+[2022-12-07 17:44:25] <069lelele069> I am proud of you @ambiguousamphibian
+[2022-12-07 17:44:27] <seraphimdunham> @kedzar its the same, it just has new keybinds, and a fresh coat of paint
+[2022-12-07 17:44:32] <3lanca> yep the furniture needs to be placed
+[2022-12-07 17:44:33] <+GShogun> dolomite is a flux stone, hopefully that means magnetite and hematite is nearby
+[2022-12-07 17:44:36] <%akrogon> @earthmeLon It's coming soon, but I've heard folks are running it fine with Wine
+[2022-12-07 17:44:41] <+littlediobolic> @earthmeLon Runs on proton just fine. Plugged in 9 hours yesterday
+[2022-12-07 17:44:42] <MrBatboss> revolt when
+[2022-12-07 17:44:47] <kagirabunne> BIM
+[2022-12-07 17:44:51] <cloudsoda> bim sala bim
+[2022-12-07 17:44:53] <earthmeLon> @akrogon Noce
+[2022-12-07 17:45:01] <ChilliDogDave> what i miss? had to go sort some stuff for 20mins
+[2022-12-07 17:45:06] <kagirabunne> Hey hey hey, bim's on the way
+[2022-12-07 17:45:09] <+moldy_fuzz> I play this just fine on linux with proton, no issues
+[2022-12-07 17:45:09] <kedzar> @seraphimdunham thank you, ok, that's how it works nice!
+[2022-12-07 17:45:13] <skinnyhunn> @MrBatboss The dwarves got to seize the means of digdruction.
+[2022-12-07 17:45:14] <Bohnenblatt> @earthmeLon also there is always classic dwarf fortress that runs on linux
+[2022-12-07 17:45:27] <Sweaper1993> These dorfs are living the luxury life
+[2022-12-07 17:45:37] <+arkleseizure42> nice easy commute to the office
+[2022-12-07 17:45:38] <earthmeLon> I made some coffee if anybody into that wants some
+[2022-12-07 17:45:39] <+GShogun> yeah that's some noble-grade living
+[2022-12-07 17:45:41] <ChilliDogDave> oh an office worker quarter thats not a bad idea
+[2022-12-07 17:45:46] <+Capnhaddock> bedrooms in a platinum vein RyuChamp
+[2022-12-07 17:45:47] <HowlingBark7> same thing
+[2022-12-07 17:45:49] <+Crundle_Quest_V> theyre the same I thin
+[2022-12-07 17:45:50] <+GShogun> same thing pretty much
+[2022-12-07 17:45:50] <kagirabunne> Nah, thrones=chairs
+[2022-12-07 17:45:52] <+moldy_fuzz> same thing, chairs are wood
+[2022-12-07 17:45:52] <emp_john_romero> a throne is just a different kind of chair
+[2022-12-07 17:45:53] <+KravenLupei> chair = throne
+[2022-12-07 17:45:54] <Boraxx92> same
+[2022-12-07 17:45:55] <+teraaabyte> same thing
+[2022-12-07 17:45:56] <%+Yodathecool1> they're the same
+[2022-12-07 17:45:56] <Bohnenblatt> Throne and chair is the same
+[2022-12-07 17:45:57] <earthmeLon> @bohnenblatt Well, yeah, but I been excited for the UI version
+[2022-12-07 17:45:57] <069lelele069> aesthetics only
+[2022-12-07 17:45:59] <RutgerRNG> I think it just depends on material
+[2022-12-07 17:45:59] VIEWERS: 2 587
+[2022-12-07 17:46:02] <tribaja> @ambiguousamphibian Thrones are from rock, chairs are wood
+[2022-12-07 17:46:02] <+GShogun> thrones are chairs just made of rocks
+[2022-12-07 17:46:10] <+KravenLupei> dwarves prefer stone thrones :)
+[2022-12-07 17:46:12] <%+slippry_john> the only difference is the material
+[2022-12-07 17:46:12] <+LieutenantMilk> well youre not a dorf
+[2022-12-07 17:46:12] <ChilliDogDave> @ambiguousamphibian thrones are noble chairs usually reserved for very needy dorfs
+[2022-12-07 17:46:12] <Tumuel> A chair is a wooden throne from what I understand
+[2022-12-07 17:46:13] <+KravenLupei> wood is for elves
+[2022-12-07 17:46:13] <HowlingBark7> resource thing i'd guess
+[2022-12-07 17:46:15] <%+Kellgoth> Dwarves love their stone stuff though
+[2022-12-07 17:46:16] <Bohnenblatt> But stones are usually more plentiful than wood
+[2022-12-07 17:46:16] <ummyeah1929> how about a wood throne
+[2022-12-07 17:46:17] <%+JaneWhitwork> A dorf would enjoy stone
+[2022-12-07 17:46:17] <cloudsoda> @Tumuel lol
+[2022-12-07 17:46:19] <+teraaabyte> Real dwarves use rock, but no gameplay effect
+[2022-12-07 17:46:20] <+DragooKnight11> They’re Dwarves, they usually like stones more
+[2022-12-07 17:46:21] <+Z4n4duz> Stone thrones sound cold
+[2022-12-07 17:46:22] <%akrogon> Thrones and chairs are identical, just different names based on the material
+[2022-12-07 17:46:23] <069lelele069> dwarves have harder buttcheeks than humans
+[2022-12-07 17:46:24] <emp_john_romero> only a Nobleman will  care about the difference between a Chair and a Throne
+[2022-12-07 17:46:32] <+iAmKetPain> where's my gold throne? Kappa
+[2022-12-07 17:46:36] <+moldy_fuzz> a dwarf could have a personality trait that prefers a certain material
+[2022-12-07 17:46:36] <+GShogun> yes
+[2022-12-07 17:46:38] <%+Harqinz> yay more dwarfing! Stone furniture has a higher potential beauty stat, wood will always be wood.
+[2022-12-07 17:46:39] <cloudsoda> @069lelele069 must make buttsex kinda hard
+[2022-12-07 17:46:40] <+GShogun> just stonemade
+[2022-12-07 17:46:44] <%+Harqinz> Wood=chair throne=stone
+[2022-12-07 17:46:50] <earthmeLon> Just say "Butt Shelf"
+[2022-12-07 17:46:50] <+Jaromero435> I'd rather sit on the porcelain throne
+[2022-12-07 17:46:50] <%+Yodathecool1> some materials are worth more, but the biggest factor is gonna be craftsmanship
+[2022-12-07 17:46:50] <kagirabunne> It just depends on the material
+[2022-12-07 17:46:50] <+moldy_fuzz> no, wooden chair is a different work order
+[2022-12-07 17:46:56] <mistuhhezakiah> Dwarves like stone. But they also like pissing off elves by cutting down trees. Tough choice.
+[2022-12-07 17:46:57] <emp_john_romero> bethroned
+[2022-12-07 17:47:02] <+nropevoli23> Rimworld but dwarfs?
+[2022-12-07 17:47:05] <069lelele069> @cloudsoda everyone knows that dwarves procreate like cave mushroom
+[2022-12-07 17:47:06] <Bohnenblatt> @ambiguousamphibian watch out. They will now make another 10 chairs when you have 9. So you will end up with 19 chairs
+[2022-12-07 17:47:09] <seraphimdunham> dwarves always prefer stone from what i understand, some dwarves can have a preference for certain materials, and you are way more likely to get a favorite stone than a favorite wood
+[2022-12-07 17:47:14] <%W33hawk> Good morning @ambiguousamphibian , Played for a few hours yesterday and can't figure out how to make my fisherman stop picking fights with crocks or gators.
+[2022-12-07 17:47:18] <+moldy_fuzz> @ambiguousamphibian thrones and wooden chairs are different work orders
+[2022-12-07 17:47:18] BITS: AngrMgmt00 (500)
+[2022-12-07 17:47:18] <%+AngrMgmt00> Cheer500 <3
+[2022-12-07 17:47:19] <cloudsoda> @069lelele069 they release spores???
+[2022-12-07 17:47:21] <kagirabunne> @nropevoli23 HAH! Rimworld is dwarves but space
+[2022-12-07 17:47:24] <Yellowone_1> stone thrones sound terrible for rectal health
+[2022-12-07 17:47:32] <+Krillxen> whatever allows you to get off planet with the stellarch
+[2022-12-07 17:47:35] <%+Harqinz> @ambiguousamphibian Upset dwarves will complain, in person, in office, to the expidition leader
+[2022-12-07 17:47:35] <+GShogun> @Yellowone_1 dwarfs are tougher than humans
+[2022-12-07 17:47:39] <+Chuck_Shanker> @ambiguousamphibian Thrones are made from the unadulterated exploitation of the masses.
+[2022-12-07 17:47:40] <+teraaabyte> @nropevoli23 rimworld but 3d and histories and diplomacy and custom traps
+[2022-12-07 17:47:49] <Siilis108> Any drunk cats yet?
+[2022-12-07 17:47:58] <cloudsoda> they have a drink in the bar when the clowns invade
+[2022-12-07 17:47:58] <emp_john_romero> dwarfs are beautiful and full of mystery
+[2022-12-07 17:47:59] <ChilliDogDave> dorfs can have fey moods and those can be funny as hell
+[2022-12-07 17:48:00] VIEWERS: 2 613
+[2022-12-07 17:48:00] <+DragooKnight11> Thrones are usually better because dorfs tend to prefer a type of stone over logs. Likely gives happy thoughts if their throne matches their favorite stone, but don’t quote me on that.
+[2022-12-07 17:48:01] <Some_Kitty_Cat> 19 years old, has 2 lovers. lel
+[2022-12-07 17:48:03] <CannibulCake> doorves
+[2022-12-07 17:48:04] <%+AngrMgmt00> dwoors
+[2022-12-07 17:48:05] <069lelele069> @cloudsoda yes
+[2022-12-07 17:48:10] <earthmeLon> @siilis108 Not until after 4PM
+[2022-12-07 17:48:13] <%+lunacorvidae> Doorve
+[2022-12-07 17:48:16] <%+seymour47> AmbiguousDwarfibian
+[2022-12-07 17:48:17] <kagirabunne> @Siilis108 Fuck fact, baby dwarves need alcohol
+[2022-12-07 17:48:21] <kagirabunne> FUN
+[2022-12-07 17:48:22] <%+Harqinz> @DragooKnight11 everything you said is corerect
+[2022-12-07 17:48:23] <cloudsoda> LOL
+[2022-12-07 17:48:24] <%+AngrMgmt00> Farm Dwoor ambiPog
+[2022-12-07 17:48:24] <kagirabunne> FUN FACT
+[2022-12-07 17:48:25] <ChilliDogDave> it'll keep wild animals from eating crops
+[2022-12-07 17:48:27] <cloudsoda> @kagirabunne EleGigle
+[2022-12-07 17:48:27] <nagamommy> FUCK FACT
+[2022-12-07 17:48:34] <kagirabunne> FUCK THE FACTS
+[2022-12-07 17:48:34] <+GShogun> yeah complaining relieves their anger
+[2022-12-07 17:48:41] <cloudsoda> f them in the a
+[2022-12-07 17:48:55] <+ibgoge> the w thing was happening to me all yesterday =D
+[2022-12-07 17:48:56] <+GShogun> they can get really pissed if there is no person to vent to
+[2022-12-07 17:49:08] <Yellowone_1> just like IRL
+[2022-12-07 17:49:13] <Bohnenblatt> Wow already 5 unhappy dwarves
+[2022-12-07 17:49:19] <Sluvock> do the dwarfs not need lights? is it a lore thing?
+[2022-12-07 17:49:21] <nagamommy> makes me feel better that even dwarves seem to need some therapy
+[2022-12-07 17:49:21] <+GShogun> or oppositely, they can get into melancholy
+[2022-12-07 17:49:22] <+abayas> Korn
+[2022-12-07 17:49:23] <Stretchbuddy> lol
+[2022-12-07 17:49:24] <+SlowKingVG> Start making Mugs
+[2022-12-07 17:49:27] <CannibulCake> nymnCorn
+[2022-12-07 17:49:29] <FishyFreund> Korm : )
+[2022-12-07 17:49:31] <+GShogun> melancholy is super bad
+[2022-12-07 17:49:32] <+KanoB5> chair
+[2022-12-07 17:49:40] <Stretchbuddy> oh boy
+[2022-12-07 17:49:42] <Siilis108> Oh man once you get a tantrum spiral it gets crazy
+[2022-12-07 17:49:49] <Yellowone_1> why not corn throne
+[2022-12-07 17:49:49] <cloudsoda> but nobody has earned a statue yet
+[2022-12-07 17:49:49] <+abayas> PauseChamp nymmCorn
+[2022-12-07 17:49:49] <imzahde> corn or Khorne? :^)
+[2022-12-07 17:49:49] <MrBatboss> can you make chopper?
+[2022-12-07 17:49:49] <069lelele069> @Sluvock they get sick in the light
+[2022-12-07 17:49:55] <Haman__Karn> be careful, I lost half a year of progress with my game CTD
+[2022-12-07 17:49:57] <kagirabunne> One time in DF classic, a guy ran up to complain to the mayor and the mayor lost his shit and broke the guy's legs
+[2022-12-07 17:49:58] <vairamusic> rock and throne
+[2022-12-07 17:49:58] <RutgerRNG> quern is for milling plants
+[2022-12-07 17:50:00] VIEWERS: 2 668
+[2022-12-07 17:50:05] <cloudsoda> he should be in the kitchen
+[2022-12-07 17:50:06] <+moldy_fuzz> @ambiguousamphibian might want to make stone blocks for walls/workshop construction
+[2022-12-07 17:50:06] <+ibgoge> eating without a table, drinking without a cup/mug will make your dorfs unhappy
+[2022-12-07 17:50:07] <%+seymour47> Dwayne The Throne Johnson
+[2022-12-07 17:50:12] <Stretchbuddy> @kagirabunne LUL
+[2022-12-07 17:50:23] <Amenophiz> Could replace the center stair in the 3x3 with statues for dorfs to admire as they walk up and down
+[2022-12-07 17:50:31] <Amenophiz> free happy thoughts
+[2022-12-07 17:50:41] <+GShogun> @kagirabunne could have been worse, could have had a hammerer involved
+[2022-12-07 17:50:55] <%Blademan69er> rocks?! where?!
+[2022-12-07 17:50:55] <069lelele069> chat, are dump zones not a thing anymore?
+[2022-12-07 17:50:57] <lithaiku> where the dwarves getting the wood from
+[2022-12-07 17:50:58] <+GShogun> it's still a thing
+[2022-12-07 17:51:03] <Siilis108> You can leave the rocks your masons will use them up for tables/thrones over time
+[2022-12-07 17:51:06] <+GShogun> can still make big dump zones
+[2022-12-07 17:51:08] <kagirabunne> @GShogun The mayor was also part of the militia, expert wrestler
+[2022-12-07 17:51:08] <seraphimdunham> @Blademan69er down.
+[2022-12-07 17:51:12] <Stretchbuddy> How long do worlds have to exist for necromancer towers to be constructed?
+[2022-12-07 17:51:13] <+ibgoge> @069lelele069 no more quantum dumping?
+[2022-12-07 17:51:17] <+GShogun> @kagirabunne oh, that definitely didnt help lol
+[2022-12-07 17:51:18] <ChilliDogDave> @069lelele069 they are you just need to use the icon with a dorf face on it at the bottom
+[2022-12-07 17:51:18] <Socioscythe> We got a river to toss trash in?
+[2022-12-07 17:51:18] <+whereismypony> bins are awesome for storagge :D
+[2022-12-07 17:51:26] <+Retro42JL> @GShogun A hammerer or other SUPER buff dorf throwing a tantru, is terrifying
+[2022-12-07 17:51:30] <+GShogun> i remember when legendary wrestlers could kill anything
+[2022-12-07 17:51:31] <+moldy_fuzz> P.S. you have a lot more drink than food ;)
+[2022-12-07 17:51:41] <+KanoB5> garbage dump
+[2022-12-07 17:51:42] <+GShogun> they'd just rip monster heads off
+[2022-12-07 17:51:43] <emp_john_romero> a rock stockpile is good strength training for your hauling dwarfs, i think its good to have
+[2022-12-07 17:51:46] <eastmaxim> rimworld on the snes
+[2022-12-07 17:51:50] <069lelele069> yeah quantum storage is what I was talking about :D I seem to have forgotten some of my dwarvenn vocabulary
+[2022-12-07 17:51:59] <+digital_fartist> THATS WILD
+[2022-12-07 17:52:00] VIEWERS: 2 668
+[2022-12-07 17:52:01] <Rizs_> Can you dig up?
+[2022-12-07 17:52:01] <MassyOverdrive> enjoying the game mate?
+[2022-12-07 17:52:04] <cloudsoda> crab men!?
+[2022-12-07 17:52:07] <+GShogun> not to mention the game accounts for a ton of things happening OUTSIDE the map space
+[2022-12-07 17:52:08] <BreceLuu> Behold, my stuff!
+[2022-12-07 17:52:08] <bRaiN_s> there are pandas in the game ;)
+[2022-12-07 17:52:15] <Caesar_24> Green Giants?
+[2022-12-07 17:52:20] <Stretchbuddy> A GIANT PENGUIN Pog
+[2022-12-07 17:52:21] <ss_skittle> omg giant penguins :)
+[2022-12-07 17:52:24] <cloudsoda> jesus
+[2022-12-07 17:52:25] <emp_john_romero> @Rizs_ yes with stairs
+[2022-12-07 17:52:29] <Khosm_> GIANT SPONGE
+[2022-12-07 17:52:29] <cloudsoda> GIANT SPONGES
+[2022-12-07 17:52:29] <nagamommy> are the giant things actually giant though, or just giant to them
+[2022-12-07 17:52:29] <keyboardrick> Giant Giants?
+[2022-12-07 17:52:30] <pieboy321> @ambiguousamphibian each one of those creature types can drop individual body parts as well
+[2022-12-07 17:52:31] <cloudsoda> @Khosm_ LUL
+[2022-12-07 17:52:34] <FishyFreund> Giant Sponges??
+[2022-12-07 17:52:38] <+AurianaMaraine> we need a giant stoat card now
+[2022-12-07 17:52:38] <+teraaabyte> GIANT SPONGE ptsd
+[2022-12-07 17:52:39] <%+seymour47> You're a giant sponge
+[2022-12-07 17:52:40] <+Roninsix> Are they just called giants because you're dwarfs?
+[2022-12-07 17:52:45] <ChilliDogDave> @ambiguousamphibian squirrel men would be under corpses because humanoid
+[2022-12-07 17:52:46] <cloudsoda> you could squeeze them for water!
+[2022-12-07 17:52:49] <+GShogun> @Roninsix no, they're genuine giants
+[2022-12-07 17:52:49] <Yellowone_1> Giant Sponge be like, Sponge Robert
+[2022-12-07 17:52:53] <Rizs_> @emp_john_romero thanks, having trouble finding soil in some seeds
+[2022-12-07 17:52:53] <+hyperhopper> preparing for a lot of bodies
+[2022-12-07 17:52:54] <LigiloKranz> Giant Amphibian
+[2022-12-07 17:52:58] <+dburn41> I think the animal-man are proc for the world
+[2022-12-07 17:53:08] <$brutalist_toast> you can domesticate dragons!
+[2022-12-07 17:53:09] <RutgerRNG> AA Boatmurdered when?
+[2022-12-07 17:53:12] <+GShogun> where are the crayfish men?
+[2022-12-07 17:53:19] <%+seymour47> Love a good ground face.
+[2022-12-07 17:53:21] <FishyFreund> now that's epic
+[2022-12-07 17:53:21] <+digital_fartist> SMOrc faces
+[2022-12-07 17:53:22] <cloudsoda> pfffft
+[2022-12-07 17:53:23] <CannibulCake> carving emojis into the floor
+[2022-12-07 17:53:23] <+KanoB5> omg robbaz yesss
+[2022-12-07 17:53:27] <+moldy_fuzz> dorf priorities
+[2022-12-07 17:53:28] <PrivatePeepo> A fellow Robert enjoyer...? ambiSnek
+[2022-12-07 17:53:28] <%+AngrMgmt00> stepping on faces
+[2022-12-07 17:53:32] <%+AngrMgmt00> kind of baller
+[2022-12-07 17:53:33] <+RonniBarker> what am I looking at here?
+[2022-12-07 17:53:34] <+Truzoeka> I love your stream!!!!! Thanks for playing this monster of a game
+[2022-12-07 17:53:37] <Bohnenblatt> You can even look ath the detail and look what it actually is
+[2022-12-07 17:53:39] <+teraaabyte> @ambiguousamphibian examine an engraving
+[2022-12-07 17:53:41] <+River8> dont they all have a detailed description too?
+[2022-12-07 17:53:42] <Santuric> If it's an engraving, you should be able to view what's engraved in it
+[2022-12-07 17:53:43] <+PeatBogPete> rbzDuck
+[2022-12-07 17:53:49] <+krip123> the gods?
+[2022-12-07 17:53:52] <+teraaabyte> @River8 all engravings have a descriptiong
+[2022-12-07 17:53:53] <Yellowone_1> Sponge Robert who lives in a giant pineapple and has a giant sea cucumber pet called Gabriel
+[2022-12-07 17:53:56] <%+Harqinz> old tilesets put completely randomly colored ascii characters and turned large rooms into pollack paintings.
+[2022-12-07 17:53:58] <cloudsoda> none of your dwarves are amazing artists though, these are probably just like, stick figure faces
+[2022-12-07 17:54:00] <emp_john_romero> theyre probably drawing a lot of prisms, dwarfs love drawing prisms
+[2022-12-07 17:54:00] VIEWERS: 2 764
+[2022-12-07 17:54:03] <+River8> @teraaabyte Yeah I remember something like that
+[2022-12-07 17:54:04] <%akrogon> @ambiguousamphibian Check out one of the engravings to see what they engraved
+[2022-12-07 17:54:06] <+SanguineHaze> If I recall it lets you know who they are
+[2022-12-07 17:54:16] <+GShogun> "This is an engraving detailing the murder of Urist McFarmerdorf in 189 by the elf Flootydoots Elfonson, the dwarf is cowering, the elf is laughing." the engravings can get really funny depending on the major events happening
+[2022-12-07 17:54:17] <+xx_montag_xx> floor was checkerboarded
+[2022-12-07 17:54:21] <%+Harqinz> @cloudsoda be realistic, it's probably all etchings of eggplants and tubers.
+[2022-12-07 17:54:21] <Tron359> it was a ch\eackered board
+[2022-12-07 17:54:24] <+hyperhopper> before it was just the checkered tile on the ground with most tileset
+[2022-12-07 17:54:32] <+Roninsix> Is it too early to ask dwarf fortress or rimworld if you had to choose?
+[2022-12-07 17:54:38] <Amenophiz> oh no the corner of the stockpile doesnt connect, immersion broken ! :O
+[2022-12-07 17:54:39] <Stretchbuddy> CHEESE
+[2022-12-07 17:54:41] <+abayas> CHEESE
+[2022-12-07 17:54:43] <+krip123> oh I missed these descriptions
+[2022-12-07 17:54:46] <GNugget1> moon2NOO the cheese is diminished
+[2022-12-07 17:54:49] <BreceLuu> 🧀
+[2022-12-07 17:54:49] <FishyFreund> nyanPls when the dwarf music starts kicking
+[2022-12-07 17:54:51] <%akrogon> It's the name of the artwork
+[2022-12-07 17:54:51] <ZachTheNebula> May need a choke point for goblin armies lol
+[2022-12-07 17:54:51] <nagamommy> not the cheese!
+[2022-12-07 17:54:52] [Points] mrshelby314 redeemed Contribute to Cult's Totem (500)
+[2022-12-07 17:54:53] <+hyperhopper> its the name of the piece
+[2022-12-07 17:54:53] <HarlemGlobetrotter> elephants, uh oh
+[2022-12-07 17:54:54] <Yellowone_1> CHEES
+[2022-12-07 17:54:55] <seraphimdunham> the engraving descriptions were the best part of the game :D
+[2022-12-07 17:54:55] <+RonniBarker> ambiSnek
+[2022-12-07 17:54:58] <Santuric> Its the name of the piece in dwarfish
+[2022-12-07 17:54:58] <+krip123> the Unspeakable Saffron
+[2022-12-07 17:54:59] <Bohnenblatt> Dwarven name, translation and by is the author
+[2022-12-07 17:55:01] <+moldy_fuzz> not the elephants
+[2022-12-07 17:55:03] <putrescinema> Have you discovered the money maker that is naming dwarves after twitch sub?
+[2022-12-07 17:55:06] <cloudsoda> dont talk about it
+[2022-12-07 17:55:07] <+GShogun> what dwarfs make statues and engravings of is pretty damn funny
+[2022-12-07 17:55:07] <Duckaerobics> The engravings and art will also reference events from the history of the world or things that have heppend in your fort.
+[2022-12-07 17:55:11] <Yellowone_1> CHEE
+[2022-12-07 17:55:22] <Cluncho> Good evening Mr Amphibian
+[2022-12-07 17:55:24] <+GShogun> yes
+[2022-12-07 17:55:26] <+krip123> is the corridor of romance the same as the tunnel of love?
+[2022-12-07 17:55:28] <+imscomobob> @Duckaerobics its so fun
+[2022-12-07 17:55:31] <Chiablo> “Corridor of Romance”
+[2022-12-07 17:55:32] <ummyeah1929> how far into the run is this?
+[2022-12-07 17:55:37] <RutgerRNG> The Single Temptation
+[2022-12-07 17:55:38] <cloudsoda> the titles were always randomized
+[2022-12-07 17:55:39] <Santuric> The art system in DF is ages old
+[2022-12-07 17:55:45] <+abayas> 🧀🧀🧀 no diminishment of cheese. illegal.
+[2022-12-07 17:55:47] <%+Harqinz> pretty sure engraving art was there before rimworld was even in beta
+[2022-12-07 17:55:51] <Lazarenth> the little dwarf icon on the plan squares is cute
+[2022-12-07 17:55:55] <cloudsoda> friendly rivalry
+[2022-12-07 17:55:57] <Duckaerobics> @Duckaerobics Yeah the world building in this game is so amazing.
+[2022-12-07 17:56:01] VIEWERS: 2 764
+[2022-12-07 17:56:05] <Santuric> What's cool is that DF art can reference historical events or characters that do/did exist in the world
+[2022-12-07 17:56:06] <+johnsontheotter> been seeing you play this, is it fun @ambiguousamphibian
+[2022-12-07 17:56:06] <+GShogun> some engravings are things like wheels of cheese
+[2022-12-07 17:56:09] <ZachTheNebula> You have some un happy dorfs lol
+[2022-12-07 17:56:09] <hopman42> Oh wow, those are some fancy ass rooms for the dorfs
+[2022-12-07 17:56:12] <%+AngrMgmt00> who doesn't enjoy a good release?
+[2022-12-07 17:56:13] <+GShogun> some dwarfs REALLY love cheese
+[2022-12-07 17:56:15] <+Hollywoodtragedy> better then gamers sending death threats lol
+[2022-12-07 17:56:17] <Amenophiz> enjoying a good release Kappa
+[2022-12-07 17:56:27] <+krip123> that's a great work life balance
+[2022-12-07 17:56:27] <cloudsoda> @Amenophiz I wasnt gonna say anything LUL
+[2022-12-07 17:56:30] <%akrogon> Y'all haven't even seen the procedurally generated musical instruments, musical forms and genres, dances, dance forms, poetry, etc.
+[2022-12-07 17:56:33] <+krip123> wake up, walk into office
+[2022-12-07 17:56:35] <%+seymour47> Dum-as
+[2022-12-07 17:56:36] <xxmajoraxx66> ambiSnek
+[2022-12-07 17:56:36] <+krip123> start work
+[2022-12-07 17:56:42] <ginston_> live-in amazon warehouse customer service reps
+[2022-12-07 17:56:42] <Amenophiz> @cloudsoda no ? shame on you :P
+[2022-12-07 17:56:46] <Dumazzz> @seymour47 yeah?
+[2022-12-07 17:56:53] <earthmeLon> "City of MinMax"
+[2022-12-07 17:56:53] <+GShogun> @akrogon oh yeah, the specific arrangements when they do dances and singing is pretty cool, especially if the spaces are big enough
+[2022-12-07 17:57:06] <+GShogun> no, hate dorf fort vargDorf
+[2022-12-07 17:57:06] <+krip123> dwarf fortress is FUN
+[2022-12-07 17:57:07] <+moldy_fuzz> it's FUN
+[2022-12-07 17:57:08] <Druss_M> It's !!Fun!!
+[2022-12-07 17:57:08] <%+Harqinz> it's 'enjoyable'
+[2022-12-07 17:57:09] <cloudsoda> eh
+[2022-12-07 17:57:11] <%+Yodathecool1> it's definitely FUN
+[2022-12-07 17:57:11] <+RonniBarker> ???
+[2022-12-07 17:57:14] <ZachTheNebula> Losing is fun.
+[2022-12-07 17:57:16] <Socioscythe> Its like enjoyable work
+[2022-12-07 17:57:16] <+DragooKnight11> It’s !!FUN!!
+[2022-12-07 17:57:17] <%+Harqinz> !!FUN!!
+[2022-12-07 17:57:20] <%+seymour47> Who wants fun?
+[2022-12-07 17:57:24] <theArashi_> Remember famous DF description: LOSING IS FUN
+[2022-12-07 17:57:24] <+Hollywoodtragedy> it entertainment are you not entertained ?
+[2022-12-07 17:57:24] <%akrogon> @GShogun Yeah I love that! I wish I knew enough about music theory to compose music based on the text descriptions of scales etc.
+[2022-12-07 17:57:24] <Siilis108> Remember losing is fun ;)
+[2022-12-07 17:57:25] <Yellowone_1> it's a game which leads you to fun from time to time
+[2022-12-07 17:57:27] <+fuzzy_moth> fun is relative?
+[2022-12-07 17:57:27] <lucas_dogg> I feel like it is, bc I enjoy playing it
+[2022-12-07 17:57:27] <%+JaneWhitwork> No fun allowed >:(
+[2022-12-07 17:57:33] <cloudsoda> @GShogun a fellow varg enjoyer, when the FUCK is he gonna stream new dorf
+[2022-12-07 17:57:34] <hopman42> And in turn, we enjoy your brain
+[2022-12-07 17:57:34] <%+Yodathecool1> ¡¡Fun!!
+[2022-12-07 17:57:43] <+krip123> you mean the Dwarf?
+[2022-12-07 17:57:45] <+CornFrogInTheCornFog> LOSING IS FUN
+[2022-12-07 17:57:53] <%+Yodathecool1> tables
+[2022-12-07 17:57:53] <RandomFungi> It's an experience that makes fun stories to tell, and memories to think about.
+[2022-12-07 17:57:55] <Siilis108> ZONE
+[2022-12-07 17:57:56] <seraphimdunham> table and chair
+[2022-12-07 17:57:56] <%+Harqinz> tables are desks yes you're good
+[2022-12-07 17:57:57] <hopman42> Table=desk
+[2022-12-07 17:57:57] <CaptainClue93> table
+[2022-12-07 17:57:57] <Kond3P> I'm not even paying attention. I'm playing with my phone and enjoying your voice
+[2022-12-07 17:58:00] <069lelele069> chat, how are the fps problems with this version with big fortresses?
+[2022-12-07 17:58:01] VIEWERS: 2 640
+[2022-12-07 17:58:01] <+GShogun> @cloudsoda soon... soon....
+[2022-12-07 17:58:02] <+Cadaba89> you can make it more fun when you have an immigration that why the details matter.
+[2022-12-07 17:58:03] <ZachTheNebula> Just chair and zone all needed.
+[2022-12-07 17:58:08] <%+lunacorvidae> DESK
+[2022-12-07 17:58:09] <+nachobears> How did you get food/drinks values to show up on that top bar? @ambiguousamphibian
+[2022-12-07 17:58:17] <+GShogun> @akrogon yeah, the detail in this game is great
+[2022-12-07 17:58:18] <cloudsoda> deconstruct your damn wagon already!
+[2022-12-07 17:58:22] <+teraaabyte> chair + zone for office, table + zone for dining room
+[2022-12-07 17:58:28] <+GShogun> oh right he didn't decon his wagon for wood
+[2022-12-07 17:58:29] <069lelele069> @nachobears need a bookkeeper
+[2022-12-07 17:58:38] <hopman42> It is decreased
+[2022-12-07 17:58:40] <+GShogun> wheelbarrows help with that
+[2022-12-07 17:58:41] <+ibgoge> 100%
+[2022-12-07 17:58:42] <Stretchbuddy> It is
+[2022-12-07 17:58:43] <+LieutenantMilk> yes
+[2022-12-07 17:58:45] <+iAmKetPain> yeah weight plays a factor
+[2022-12-07 17:58:45] <Chiablo> Rocks are heavy
+[2022-12-07 17:58:46] <+moldy_fuzz> @ambiguousamphibian make wheelbarrows and assign them to stockpiles
+[2022-12-07 17:58:48] <seraphimdunham> @ZachTheNebula you want to put a table next to it because they can sometimes choose to eat in their office and then they complain that they dont have a table to eat on
+[2022-12-07 17:58:49] <+nropevoli23> Is it decreased when walking over stuff?
+[2022-12-07 17:58:49] <CaptainClue93> yes it is
+[2022-12-07 17:58:49] <+krip123> I hope this sells really well. Tarn and Zack really deserve it
+[2022-12-07 17:58:49] <+ibgoge> give them a wheelbarrel
+[2022-12-07 17:58:51] <+LieutenantMilk> wheelbarrows help a lot
+[2022-12-07 17:58:52] <Dumbsnarky> It is, wheelbarrows can be designated to the stockpiles
+[2022-12-07 17:58:54] <HarlemGlobetrotter> yeah 100%, that's why stone blocks are great because they're lighter
+[2022-12-07 17:59:00] <hopman42> You can add more wheelbarrows to stockpiles
+[2022-12-07 17:59:00] <+GShogun> you can designate an amount of wheelbarrows per stockpile, too
+[2022-12-07 17:59:10] <%+Harqinz> give them a *supply* of wheelbarrows they'll use them interchangably between all heavy item stockpiles
+[2022-12-07 17:59:14] <+GShogun> @HarlemGlobetrotter exactly
+[2022-12-07 17:59:16] <ZachTheNebula> A lot of alerts lol
+[2022-12-07 17:59:20] <Kijiro> Yes, and if your dwarf is wearing 500 lead crowns they will also slow down.
+[2022-12-07 17:59:22] <+GShogun> stone blocks make things way more efficient
+[2022-12-07 17:59:26] <+kishmond> Some of your dwarves are getting unhappy thoughts. Can you check what these are?
+[2022-12-07 17:59:29] <CaptainClue93> oh no, no trade depot
+[2022-12-07 17:59:31] <%+Yodathecool1> Anyone know why I ran out of plump helm seeds?? i planted them all, made booze out of them, and then no more seeds....i don't remember that being how it worked
+[2022-12-07 17:59:32] <TacticalAssaultPigeon> evening :D
+[2022-12-07 17:59:37] <%+seymour47> In other words: Don't fuck it up.
+[2022-12-07 17:59:42] <+GShogun> uh oh
+[2022-12-07 17:59:46] <Siilis108> @Yodathecool1 You need to set cooking off for them
+[2022-12-07 17:59:53] <+GShogun> dorf merchant skipped him over?
+[2022-12-07 17:59:54] <ZachTheNebula> Make mugs and sell at depot lol
+[2022-12-07 17:59:56] <%akrogon> @Yodathecool1 Were they allowed to be cooked or eaten?
+[2022-12-07 17:59:58] <Stretchbuddy> LUL
+[2022-12-07 18:00:00] <Siilis108> You cooked all the plump helmets. It doesnt give seeds. Need to brew them.
+[2022-12-07 18:00:02] VIEWERS: 2 699
+[2022-12-07 18:00:03] <%$Flying_Nostril> you have to process the plants into seeds
+[2022-12-07 18:00:06] <+GShogun> because a dorf liaison usually shows up with a caravan
+[2022-12-07 18:00:07] <cloudsoda> that wagon is begging to be taken apart
+[2022-12-07 18:00:16] <+GShogun> lol
+[2022-12-07 18:00:16] <Kijiro> Does brewing still give seeds?
+[2022-12-07 18:00:19] <Bohnenblatt> @Yodathecool1 make sure that you dont use plump helmets for cooking. Cooking will not give a seed. Brewing and eating it raw does
+[2022-12-07 18:00:19] <%+seymour47> There's plenty of time to get the depot set up after the trader arrives.
+[2022-12-07 18:00:19] <cloudsoda> pfft
+[2022-12-07 18:00:21] <+ibgoge> @Yodathecool1 if they were all planted you need to wait for them to grow and brew again to get more seeds  it only starts you with 5 seeds which is not nearly enough
+[2022-12-07 18:00:22] <+GShogun> "Some migrants have arrived."
+[2022-12-07 18:00:23] <+SCPSophie> Its the Amphibian!!
+[2022-12-07 18:00:26] <Siilis108> @Yodathecool1 Labor - > Kitchen
+[2022-12-07 18:00:34] [Raid] 211 raiders from GiantBomb have joined!
+[2022-12-07 18:00:34] <%+Yodathecool1> i 100% to disallow cooking of them lmao. thanks everyone
+[2022-12-07 18:00:36] <hopman42> In classic it pauses on migrants arriving
+[2022-12-07 18:00:37] <+DragooKnight11> It would pause your game by default
+[2022-12-07 18:00:39] <%+AngrMgmt00> Sneaky Dwarves ambiNobodyexpects
+[2022-12-07 18:00:42] <+iAmKetPain> haven't tried it but there's a sound mod for announcements
+[2022-12-07 18:00:43] <%+Yodathecool1> *forgot to
+[2022-12-07 18:00:46] <+SCPSophie> @ambiguousamphibian peace and so much love to you and chat! hope youre having a lovely day ^^
+[2022-12-07 18:00:48] <+GShogun> an even more distinct message. "A vile force of darkness has arrived!"
+[2022-12-07 18:00:50] <cloudsoda> wagh big raid
+[2022-12-07 18:00:51] <+nropevoli23> As someone that loves Rimworld, I'm guessing I'd love this game?
+[2022-12-07 18:00:53] <+nachobears> @069lelele069 i have an expert record keeper assigned with a study and i only have my pops showing up on that top bar
+[2022-12-07 18:00:59] <%+seymour47> Welcome Raiders.
+[2022-12-07 18:01:08] <ZachTheNebula> This is a the father of Rimworld
+[2022-12-07 18:01:12] <+iAmKetPain> Grandfather
+[2022-12-07 18:01:14] <+GShogun> yeah this is rimworld's grandpappy
+[2022-12-07 18:01:18] <%+seymour47> @ambiguousamphibian Raid Announcement
+[2022-12-07 18:01:18] <cloudsoda> caveman ancestor
+[2022-12-07 18:01:22] <+iAmKetPain> ^LOL
+[2022-12-07 18:01:25] <+iAmKetPain> true
+[2022-12-07 18:01:38] <+prideapollo> whoa, is that THE Ambiguousamphibian?!
+[2022-12-07 18:01:42] <%akrogon> @nropevoli23 Probably! It definitely requires more effort to learn than Rimworld. It's not harder, the documentation is just pretty lacking
+[2022-12-07 18:01:46] <+GShogun> dolomite, that hard black rock that won't cop out
+[2022-12-07 18:01:47] <+Retro42JL> It's hard to explain just how long DF has been in development to people
+[2022-12-07 18:01:51] <+Crundle_Quest_V> I prefer the ASCII since it lets me use my imagination
+[2022-12-07 18:01:53] <+CornFrogInTheCornFog> Agreed, you can tell at a glance what things are
+[2022-12-07 18:01:58] <%akrogon> @nropevoli23 But the depth of simulation blows Rimworld out of the water
+[2022-12-07 18:02:02] VIEWERS: 2 699
+[2022-12-07 18:02:06] <%+complexquanta> it's not that hard to explain. 20 years.
+[2022-12-07 18:02:06] <Siilis108> Gotta love reading guides from 10 year old reddit threads
+[2022-12-07 18:02:08] <~%ambiguousamphibian> !so giantbomb
+[2022-12-07 18:02:08] <@^StreamElements> Check out giantbomb, they were playing Talk Shows & Podcasts at https://twitch.tv/giantbomb
+[2022-12-07 18:02:12] [Notification] PalNick subscribed with Prime. They've subscribed for 9 months! [As always - this sub is for the love of my life, Gerald Williams]
+[2022-12-07 18:02:18] <cystic_pizza> @Retro42JL what's hard about saying "20 years"
+[2022-12-07 18:02:28] <+GShogun> been enjoying it for abotu 10 year's it's always fun recalling how far this game has come
+[2022-12-07 18:02:28] <Nico_tsb> pls play rimworld instead
+[2022-12-07 18:02:32] <+GShogun> years* wtf
+[2022-12-07 18:02:33] <Nico_tsb> :D
+[2022-12-07 18:02:34] <cloudsoda> @Crundle_Quest_V agreed, lol another joel watcher
+[2022-12-07 18:02:44] <+Retro42JL> More like "he spent YEARS on the injury/body system alone"
+[2022-12-07 18:02:47] [Points] Mattachow redeemed Contribute to Cult's Totem (500)
+[2022-12-07 18:02:58] <Lazarenth> hash marks
+[2022-12-07 18:03:01] <cystic_pizza> @Nico_tsb ***f
+[2022-12-07 18:03:02] <+GShogun> vargDorf dorf fort is an evergreen game for me, if i get bored with anything else dorf is always there
+[2022-12-07 18:03:04] <cloudsoda> was that a frog
+[2022-12-07 18:03:04] <+Retro42JL> And another on adventure mode
+[2022-12-07 18:03:08] <Siilis108> Pretty sure you can give them peg legs too right?
+[2022-12-07 18:03:09] <FishyFreund> Dwarves are simple folk
+[2022-12-07 18:03:16] <Nico_tsb> @Nico_tsb awh :(
+[2022-12-07 18:03:19] <+GShogun> cat killing them
+[2022-12-07 18:03:21] <WellingtonSkellington> D: dead liz
+[2022-12-07 18:03:21] <+Retro42JL> etc etc.  The fine details in systems is absurd thanks to the dev time
+[2022-12-07 18:03:24] <%+seymour47> @Nico_tsb Rude. Go play it yourself.
+[2022-12-07 18:03:28] <lucas_dogg> Any goblin invasions?
+[2022-12-07 18:03:33] <+GShogun> @lucas_dogg a bit early
+[2022-12-07 18:03:34] <+Cadaba89> diplomacy menu is up
+[2022-12-07 18:03:41] <bigscreebo> D I P L O M A C Y
+[2022-12-07 18:03:43] <Nico_tsb> @seymour47 Stop taking everything so seriously.
+[2022-12-07 18:03:44] <+digital_fartist> is this game really hard to learn ?looks very complex
+[2022-12-07 18:03:44] <+TheGhostlyOnyx> @Nico_tsb let him play what he wants and everyone here wants to see df
+[2022-12-07 18:03:46] <Yellowone_1> dead amphibians D:
+[2022-12-07 18:03:49] <+Zakaluka15> my dwarves won't haul anything to the dump even if i mark it for dumping, very confuse
+[2022-12-07 18:03:53] <+moldy_fuzz> the df wiki is still relevant, thankfully
+[2022-12-07 18:03:59] <+imav1ctor> how does this compare to rimworld? I know it's much more complex but can anybody who has played both chime in?
+[2022-12-07 18:03:59] <+GShogun> @Zakaluka15 are they busy?
+[2022-12-07 18:04:02] Viewerstats (17:33-18:04): avg:2 614 min:2 424 max:2 764 [16/2 430+47+0−53+163+0+0+26+55+0+96+0−124+59+0+42]
+[2022-12-07 18:04:02] VIEWERS: 2 741
+[2022-12-07 18:04:09] <+Zakaluka15> @GShogun no just standing around
+[2022-12-07 18:04:12] <Nico_tsb> @TheGhostlyOnyx Chill dude, was a joke. Stop taking people on Twitch seriously.
+[2022-12-07 18:04:15] <+GShogun> @Zakaluka15 are the things they're supposed to be hauling accessible or forbidden?
+[2022-12-07 18:04:15] <cloudsoda> buy some chickens
+[2022-12-07 18:04:15] <+teraaabyte> @Zakaluka15 do you have multiple dumps?
+[2022-12-07 18:04:17] <%+seymour47> @Nico_tsb A large raid comes in and some random person just tells the streamer to play something else? How the hell else are we supposed to take it?
+[2022-12-07 18:04:18] <WellingtonSkellington> @imav1ctor this has more complex and in depth systems
+[2022-12-07 18:04:18] <+phillmianus> " ri - rim - dwarf fortress"
+[2022-12-07 18:04:19] <+Zakaluka15> one dump
+[2022-12-07 18:04:24] <bigscreebo> go to the help page it explains it pretty well!!
+[2022-12-07 18:04:27] <+Zakaluka15> nothing is forbidden
+[2022-12-07 18:04:28] <cystic_pizza> @imav1ctor you answered your own question -- this game is much more in depth/complex and it's 20 years old
+[2022-12-07 18:04:29] <Bohnenblatt> @ambiguousamphibian trading is really easy. Just move thing you want to sell to the depot and then trade like rimworld
+[2022-12-07 18:04:31] <Nico_tsb> @seymour47 Imagine getting upset over a Twitch chat. Ouch
+[2022-12-07 18:04:35] <+TheGhostlyOnyx> @Nico_tsb you clearly weren't joking
+[2022-12-07 18:04:35] <+SpaceGhost8> no mug industry?
+[2022-12-07 18:04:42] <+GShogun> yeah trading is super easy
+[2022-12-07 18:04:43] <+imav1ctor> hm
+[2022-12-07 18:04:45] <friscoborn> sell them bone cups, buddy!
+[2022-12-07 18:04:47] <%+Yodathecool1> yeah, i had issues trading.... it didn't let me move the cut gems i had to the depot. they didn't appear in the menu for moving
+[2022-12-07 18:04:50] <bigscreebo> go to the help page it explains it
+[2022-12-07 18:04:51] <%akrogon> @imav1ctor It's more difficult to learn how to play, but the emergent storytelling is top notch
+[2022-12-07 18:04:51] <+CornFrogInTheCornFog> Not trading increases the odds of FUN :D
+[2022-12-07 18:04:52] <cloudsoda> deconstruct the wagon, get the materials!
+[2022-12-07 18:04:57] <Nico_tsb> @TheGhostlyOnyx You clearly don't know what you're talking about. :-)
+[2022-12-07 18:05:00] <%+seymour47> @Nico_tsb Imagine thinking being a dipshit in a chat makes it ok?
+[2022-12-07 18:05:03] <+GShogun> are spiked balls still a stupidly easy way to get money in this version?
+[2022-12-07 18:05:05] <%+complexquanta> it's more of a bottom-up simulation, starting with systems of physics and personality and building up a society. rimworld is more top-down, starting with narratives and adding details frugally as necessary.
+[2022-12-07 18:05:05] <%akrogon> @imav1ctor Also it has z-levels which is a huge difference
+[2022-12-07 18:05:13] <+GShogun> or did they change the value of spiked balls?
+[2022-12-07 18:05:13] <Nico_tsb> @seymour47 Dipshit, lmao. Did I hurt your feelings?
+[2022-12-07 18:05:17] <+TheGhostlyOnyx> @Nico_tsb you're the one being an asshat and saying it's just a joke
+[2022-12-07 18:05:18] <sleepy_knight00> LUL
+[2022-12-07 18:05:25] <+iAmKetPain> trading is nice for resource deficits, like wood for a wasteland playthrough
+[2022-12-07 18:05:28] <Siilis108> Probably some dead bugs
+[2022-12-07 18:05:34] <Nico_tsb> @Nico_tsb Damn, pull out your panties dumbo, wth is going on xD
+[2022-12-07 18:05:37] <Siilis108> Luckily dwarves dont poop
+[2022-12-07 18:05:42] <friscoborn> mental musing to poo on a stool: pure df
+[2022-12-07 18:05:43] <Siilis108> Just smell when they die
+[2022-12-07 18:05:45] <cloudsoda> @Nico_tsb dont talk to yourself
+[2022-12-07 18:05:46] <+GShogun> if you're mining out dolomite, more than likely there will be iron ore deposits
+[2022-12-07 18:05:57] <Bohnenblatt> @imav1ctor Dwarf fortress is more complex. Rimworld is harder. In DF you can build yourself in and nothing can hurt you. In Rimworld you face raids after raids after raids and if you block yourself of they will just dig in.
+[2022-12-07 18:05:57] <%+JaneWhitwork> DF Battle Royale when?
+[2022-12-07 18:05:59] <+imav1ctor> @imav1ctor okay that's pretty interesting
+[2022-12-07 18:05:59] <sleepy_knight00> dwarves poop ore
+[2022-12-07 18:06:02] VIEWERS: 2 741
+[2022-12-07 18:06:05] <+GShogun> flux stone usually means iron ore is nearby
+[2022-12-07 18:06:10] <+TheGhostlyOnyx> @Nico_tsb I'm arguing with an idiot that' what
+[2022-12-07 18:06:13] <Nico_tsb> @cloudsoda Imagine upsetting so many people by mentioning Rimworld. Kappa
+[2022-12-07 18:06:15] <%+seymour47> @Nico_tsb Seems you're not welcome here.
+[2022-12-07 18:06:16] <swizzter_> i just watched a add were a lady ate a pineapple 0 clue what company the ad was
+[2022-12-07 18:06:23] <scootieloo> AA's got a really nice voice, I love how soothing it is. His voice would suit DF very well
+[2022-12-07 18:06:23] <+minderbinder141> didnt this game used no to have like no gfx? how tf did anyone play
+[2022-12-07 18:06:25] <+GShogun> @swizzter_ eat more pineapple
+[2022-12-07 18:06:25] <cloudsoda> @Nico_tsb its twitch, what do you expect LUL
+[2022-12-07 18:06:26] <Nico_tsb> @Nico_tsb We're not arguing sweety
+[2022-12-07 18:06:26] <YourShadowDani> they cleaned the shit off the chairs huzzah!
+[2022-12-07 18:06:29] <+GShogun> @minderbinder141 imagination
+[2022-12-07 18:06:36] <Siilis108> Rimworlds great. Dwarf Fortress is great. Played both. Enjoyed both.
+[2022-12-07 18:06:36] <+TheGhostlyOnyx> @cloudsoda no you demanded that the streamer play something else not just mentioning rimworld
+[2022-12-07 18:06:40] <Nico_tsb> @cloudsoda Thats what I said :D
+[2022-12-07 18:06:42] <WellingtonSkellington> @minderbinder141 ascii isn't that bad, and tilesets existed
+[2022-12-07 18:06:43] <+GShogun> @minderbinder141 this is a dorf vargDorf , pretty easy to understand (:
+[2022-12-07 18:06:44] <TheSovietMoose> I cant wait to try out Dwarf Fortress, such a charming game
+[2022-12-07 18:06:48] <WellingtonSkellington> distan16Pog NUMBERS
+[2022-12-07 18:06:48] <+Retro42JL> @Bohnenblatt There are certain"Fun" things that DF deals with that RW doesn't though
+[2022-12-07 18:06:48] <+pvtbones> need to assign them?
+[2022-12-07 18:06:48] <%W33hawk> how long can you go without a militia commander or a sheriff?
+[2022-12-07 18:06:49] <%+complexquanta> so DF is "crunchier" and has more emergent storytelling but less hard-coded interesting stuff. the procedural generation can sometimes lead to samey feels; rimworld has a stronger setting and is a better "game" but df is more detailed and in some ways interesting
+[2022-12-07 18:06:49] <nagamommy> maybe he wants a throne
+[2022-12-07 18:06:51] <+imav1ctor> @Bohnenblatt oh wow really? That's a new way to play, gives you the ability to create a mega society
+[2022-12-07 18:06:51] <friscoborn> offices need chair, table is all
+[2022-12-07 18:06:51] <Nico_tsb> @cloudsoda It was a joke dude, shut up lmao
+[2022-12-07 18:06:53] <Druss_M> NUMMBEERS
+[2022-12-07 18:07:01] <+pmurph03> numbers!!
+[2022-12-07 18:07:01] <MisterZero_> we have learned to count!
+[2022-12-07 18:07:02] <+minderbinder141> maybe my imagination is lacking sadge
+[2022-12-07 18:07:02] <MinTillMassacre> DATA
+[2022-12-07 18:07:08] <+baw7d3> the books are now kept!
+[2022-12-07 18:07:09] <Bohnenblatt> @minderbinder141 once you got used to it it played better for a veteran player than playing the steam release as a veteran. Veterans need to learn the controls from the beginning
+[2022-12-07 18:07:14] <pieboy321> coffee time!
+[2022-12-07 18:07:17] <+GShogun> @complexquanta the game is about as samey or complex as you want to make it, though
+[2022-12-07 18:07:18] <%+JaneWhitwork> I already have water
+[2022-12-07 18:07:19] <DatHarass> OK COACH
+[2022-12-07 18:07:19] <Stretchbuddy> water is for the birds
+[2022-12-07 18:07:22] <bigscreebo> coffee time!
+[2022-12-07 18:07:23] <mcvenor6> @ambiguousamphibian does a Glass of Rum count too ?
+[2022-12-07 18:07:24] <casinocop> is this the Kerbal space program 2 waiting room
+[2022-12-07 18:07:25] <+GShogun> the whole thing about DF is that it is very customizable for the player
+[2022-12-07 18:07:28] <+TheGhostlyOnyx> @cloudsoda iT wAs a JOkE dUde
+[2022-12-07 18:07:29] <nagamommy> poop time
+[2022-12-07 18:07:37] <sausage_thief> Piss time!
+[2022-12-07 18:07:38] <Nico_tsb> @cloudsoda Why are you so upseT?
+[2022-12-07 18:07:38] <+digital_fartist> introvert dwarf
+[2022-12-07 18:07:40] <%+complexquanta> i was referring more to the, like, musical instruments and social generation
+[2022-12-07 18:07:40] <BreceLuu> bogaHacker_TK I'll wait ...
+[2022-12-07 18:07:42] <+Angryblacksocialist> More counting
+[2022-12-07 18:07:44] <+baw7d3> water is for closers!
+[2022-12-07 18:07:49] <+imav1ctor> I saw this game has steam workshop as well, that's what really interested me
+[2022-12-07 18:07:51] <+GShogun> if you want to have a super easy and possibly boring experience, you can do that in DF, if you want a hellish and challenging experience, you can also do that
+[2022-12-07 18:07:51] <cloudsoda> STOP MENTIONING ME LOL
+[2022-12-07 18:07:54] <+TheGhostlyOnyx> @cloudsoda nah I love trolling idiots like you
+[2022-12-07 18:07:55] <nagamommy> (stop replying to the dummy in chat otherwise he wont stop lol)
+[2022-12-07 18:07:57] <rose_the_paladin> Yo what the fuck is up chat !
+[2022-12-07 18:07:57] <sayagainsquid> AA triggered
+[2022-12-07 18:07:59] <sleepy_knight00> HOT
+[2022-12-07 18:07:59] <+minderbinder141> @Bohnenblatt i tried it like a year ago, and was so lost lol. but i see your point
+[2022-12-07 18:08:00] <Stretchbuddy> Kreygasm
+[2022-12-07 18:08:00] <+TheGhostlyOnyx> @cloudsoda
+[2022-12-07 18:08:03] VIEWERS: 2 908
+[2022-12-07 18:08:04] <Nico_tsb> @cloudsoda You're not trolling anybody.
+[2022-12-07 18:08:04] <WellingtonSkellington> 😳
+[2022-12-07 18:08:05] <+imav1ctor> LULW
+[2022-12-07 18:08:05] <cloudsoda> @TheGhostlyOnyx LUL
+[2022-12-07 18:08:06] <friscoborn> oooh shirtless frogmannnn
+[2022-12-07 18:08:07] <+SCPSophie> @ambiguousamphibian peace and so much love to you and chat! hope youre having a lovely day ^^
+[2022-12-07 18:08:08] <+teraaabyte> @W33hawk without a militia commander you can't have a military, which is fine until enemies stronger than troglodytes show up.  Sheriff/guard captain allow you to do justice and investigate crimes
+[2022-12-07 18:08:10] <+baw7d3> #nudeDawrfs
+[2022-12-07 18:08:14] <sleepy_knight00> LUL
+[2022-12-07 18:08:15] <bigscreebo> I am
+[2022-12-07 18:08:15] <cloudsoda> you guys gotta leave me out of this
+[2022-12-07 18:08:17] [Raid] 44 raiders from dev_spajus have joined!
+[2022-12-07 18:08:21] <vryan_curtis> Pog
+[2022-12-07 18:08:21] [Notification] Halfanapplepie subscribed with Prime.
+[2022-12-07 18:08:21] <cloudsoda> and focus on how hot ambiguous is
+[2022-12-07 18:08:22] <+teraaabyte> amphibian makes me hot
+[2022-12-07 18:08:23] <emma_smileyface> you already were hot ;)
+[2022-12-07 18:08:25] <antharok> raid PogBones
+[2022-12-07 18:08:26] <Nico_tsb> @cloudsoda True. Haha will leave you out :D
+[2022-12-07 18:08:27] <%+Protoges> Can someone take care of my work so I can play DF?
+[2022-12-07 18:08:29] <dev_spajus> hey! :)
+[2022-12-07 18:08:31] <$yyyolk> lmao
+[2022-12-07 18:08:38] <%+lunacorvidae> Hello
+[2022-12-07 18:08:38] <CaptainDerk> welcome raiders captai1615Car
+[2022-12-07 18:08:40] <%Halfanapplepie> My hero! I didnt realize you stream,,  love it
+[2022-12-07 18:08:45] <Bohnenblatt> @minderbinder141 the problem for me is have really deep mustle memory for DF. And now all this mustle memory is pretty much useless
+[2022-12-07 18:08:46] <%+seymour47> LUL AA losing his mind.
+[2022-12-07 18:08:54] <dev_spajus> yes, oxygen and temperature are cellular automata
+[2022-12-07 18:09:00] <cloudsoda> Ive never met someone get so excited over water physics
+[2022-12-07 18:09:05] <+GShogun> @Bohnenblatt same, i wish they gave the option for classic controls
+[2022-12-07 18:09:13] <dev_spajus> I did play dwarf fortress for 20 minutes while tests were running LUL
+[2022-12-07 18:09:13] <~%ambiguousamphibian> !so dev_spajus
+[2022-12-07 18:09:14] <@^StreamElements> Check out dev_spajus, they were playing Stardeus at https://twitch.tv/dev_spajus
+[2022-12-07 18:09:14] <+GShogun> muscle memory is too ingrained
+[2022-12-07 18:09:23] <Bohnenblatt> @GShogun i think you plan to do it. But it will take time
+[2022-12-07 18:09:25] <%+seymour47> You got it, AA.
+[2022-12-07 18:09:29] <nagamommy> i love how happy aa gets with every raid its quite wholesome
+[2022-12-07 18:09:36] <dev_spajus> but we're here to see how DF is played by a pro :)
+[2022-12-07 18:09:36] <+GShogun> @Bohnenblatt to be fair, there is always dwarf fort classic to play
+[2022-12-07 18:09:42] <+GShogun> @Bohnenblatt and thankfully that will still be updated
+[2022-12-07 18:09:46] <CleverShadow> @ambiguousamphibian How has it been? I remember asking if you were gonna play this months ago. Happy to see that you did
+[2022-12-07 18:09:49] <%+seymour47> ambiRofl  AA geeking out
+[2022-12-07 18:10:03] VIEWERS: 2 908
+[2022-12-07 18:10:14] <Bohnenblatt> @GShogun yeah and steam release offers nothing really new. Like there not really new content. Just controls and UI are different
+[2022-12-07 18:10:18] <+Hyperlooper> YES
+[2022-12-07 18:10:23] <%+lunacorvidae> ambiSnek
+[2022-12-07 18:10:25] <+LordGeese> GURD
+[2022-12-07 18:10:26] <cloudsoda> loool
+[2022-12-07 18:10:28] <nagamommy> GURD
+[2022-12-07 18:10:29] <Mirando> I have eternal reflux. I hate it LUL
+[2022-12-07 18:10:29] <+LordGeese> I have it
+[2022-12-07 18:10:31] <+Hyperlooper> gotta sit up straight
+[2022-12-07 18:10:31] <cloudsoda> go splash water on your face
+[2022-12-07 18:10:32] <mothmeats> dorf
+[2022-12-07 18:10:33] <+LordGeese> GURD
+[2022-12-07 18:10:44] <+GShogun> @Bohnenblatt yeah, that's what i've seen so far, i'm just happy that classic will continue getting major updates
+[2022-12-07 18:10:46] <+Jack9Twitch> one of the big steam differences I noticed is no more upstairs/downstairs specific constructions
+[2022-12-07 18:10:47] <dev_spajus> where's the beer?
+[2022-12-07 18:10:49] <%+lunacorvidae> You are slowly becoming a dwarf
+[2022-12-07 18:10:58] <+Hyperlooper> HEY no lie but you know what helps acid reflux? eat a spoonful of mustard.
+[2022-12-07 18:11:02] <ancistrus2718> its GERD
+[2022-12-07 18:11:08] <+LordGeese> GURD
+[2022-12-07 18:11:09] <+rumpriderx10> we are out of meat and fish so stravation may begin soon
+[2022-12-07 18:11:10] <Oglaroon> The struggle is the best part cohhWaii
+[2022-12-07 18:11:10] <+GShogun> @Hyperlooper ew
+[2022-12-07 18:11:13] <Bohnenblatt> @GShogun that beeing said i already played 6 hours of steam DF
+[2022-12-07 18:11:13] <Socioscythe> Thats fair LUL
+[2022-12-07 18:11:16] <DisorientedFox> Remember it's 3D!
+[2022-12-07 18:11:17] <Rexxig> Goard
+[2022-12-07 18:11:17] <+Jack9Twitch> Tums also helps with acid reflux
+[2022-12-07 18:11:22] <+LieutenantMilk> The more im playing the steam release the more im appreciating how much easier it is to navigate menus
+[2022-12-07 18:11:34] <+Retro42JL> Going to have a rough winter I think
+[2022-12-07 18:11:58] <Socioscythe> What are the odds of survival in winter?
+[2022-12-07 18:12:03] <+GShogun> @Bohnenblatt i'm mulling on getting it or jsut sticking with DF classic
+[2022-12-07 18:12:04] VIEWERS: 2 677
+[2022-12-07 18:12:05] <+Crundle_Quest_V> Forgotten beast
+[2022-12-07 18:12:06] <pieboy321> enemies :)
+[2022-12-07 18:12:08] <+Chuck_Shanker> A long dark night of the Dwarven soul
+[2022-12-07 18:12:10] <lucas_dogg> Demons :)
+[2022-12-07 18:12:11] <%W33hawk> i mean...food do be kinda low
+[2022-12-07 18:12:15] <Siilis108> Make a bridge that raises left and blocks main entrance
+[2022-12-07 18:12:16] <cloudsoda> HOORAY
+[2022-12-07 18:12:16] <+pick6and1> are there any giant unicorns?
+[2022-12-07 18:12:17] <+imscomobob> you will die if you cook all your seeds you need for planting your plump helmets
+[2022-12-07 18:12:17] <lil_mad_rat> Everything CarlSmile
+[2022-12-07 18:12:17] <DatHarass> How many cats you have atm AA?
+[2022-12-07 18:12:18] <+GShogun> you should have a fine winter if you have a good plump helmet production
+[2022-12-07 18:12:18] <nickydeedles> Not much early, first year is forgiving
+[2022-12-07 18:12:18] <+Jack9Twitch> do you have a well in the cave Cavern
+[2022-12-07 18:12:19] <+Krillxen> make a fishery
+[2022-12-07 18:12:20] <+TheGhostlyOnyx> PogChamp time to starve and freeze to death
+[2022-12-07 18:12:21] <CleverShadow> Make sure you're converting the plump helmets to food or booze so you get the seeds back quickly. Thats key for keeping the farm going
+[2022-12-07 18:12:21] <+LieutenantMilk> you seem fine to me tbh
+[2022-12-07 18:12:23] <+iAmKetPain> you might starve but nothing will kill you other than that, might dehydrate, depending on length of winter
+[2022-12-07 18:12:23] <+mystic_science> werebeast are infectious learned that the hard way
+[2022-12-07 18:12:24] <leons_sentient_jacket> bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare bawkStare
+[2022-12-07 18:12:32] <cloudsoda> go hunting?
+[2022-12-07 18:12:32] <ancistrus2718> gather plants
+[2022-12-07 18:12:32] <+GShogun> plump helmet keeps you well fed and hydrated throughout winter
+[2022-12-07 18:12:35] <+hyperhopper> @ambiguousamphibian make some cage traps or drawbridge to prep for invasion
+[2022-12-07 18:12:36] <RedBrickAce> fish?
+[2022-12-07 18:12:38] <Nico_tsb> Fishies :D
+[2022-12-07 18:12:45] <+GShogun> fishes lol
+[2022-12-07 18:12:45] <2908_Juno> make a farm on some underground fungi caverns?
+[2022-12-07 18:12:45] <dvorak586> kill the traders and steal their stuff tomatoCult
+[2022-12-07 18:12:46] <ChilliDogDave> your biggest threat right now is lack of drinks and food, make a bunch of buckets and barrel and collect water and get a bigger farm
+[2022-12-07 18:12:47] <cloudsoda> make a fishery!
+[2022-12-07 18:12:48] <cursedwist> water source that won't freeze over?
+[2022-12-07 18:12:49] <+imscomobob> make sure you set your seeds up to not be cooked
+[2022-12-07 18:12:49] <Bohnenblatt> @GShogun i bought it mainly to give the brothers some money they really deserved
+[2022-12-07 18:12:49] <%+seymour47> @GShogun If you know what you're doing in the normal game, it kinda feels like you don't need the steam release.
+[2022-12-07 18:12:57] <+MemTheMiner> hunt, plant foods,fish, gather
+[2022-12-07 18:12:57] <%akrogon> Designate plants to gather outside
+[2022-12-07 18:12:57] <+iAmKetPain> fishery is a workshop
+[2022-12-07 18:12:58] <z29v> @ambiguousamphibian disable plump helmets to be cooked in the kitchen tab under labor, brewing plump will produce seeds, infinite plumps
+[2022-12-07 18:12:58] <nickydeedles> farm plot, gather plants (area setting outside), hunt animals (crossbow and bolts)
+[2022-12-07 18:12:58] <%W33hawk> select a gather plants zone and make it like 4000 tiles and have them pick all the berries and plants in that area
+[2022-12-07 18:12:58] <+DragooKnight11> If nothing else, the cats will kill you.
+[2022-12-07 18:12:59] <+LieutenantMilk> getting a small tomb set up in case people die, so it doesnt spiral too much
+[2022-12-07 18:12:59] <Siilis108> @ambiguousamphibian You need mechanisms (mechanic) and build a lever somewhere and the bridge. Click lever, hook up to bridge :)
+[2022-12-07 18:12:59] <sayagainsquid> fishery is a workshop
+[2022-12-07 18:13:00] <Socioscythe> @dvorak586 Damn, psycho LUL
+[2022-12-07 18:13:00] <ss_skittle> milk/eggs from livestock? :)
+[2022-12-07 18:13:00] <+Syluxrox> @CleverShadow do the dwarves automatically harvest the seeds before turning them into wine? Or do you have to specifically tell them to gather them?
+[2022-12-07 18:13:00] <CleverShadow> You can designate areas if you want them to fish in a specific area, but you also should make a fishery workshop. @ambiguousamphibian
+[2022-12-07 18:13:07] <DatHarass> nah man the cat question was to prevent future problems
+[2022-12-07 18:13:09] <DatHarass> tbh
+[2022-12-07 18:13:14] <+JTBossHogg> my last play through i have over 600 food, but only 12 dwarves. Kept getting zero migrants every year. fortress wiped out from 3 undead.
+[2022-12-07 18:13:15] <Lilstoudey> Heya! Is this the type of game you can learn as you play or do you really need to look at multiple videos to even play it? @ambiguousamphibian
+[2022-12-07 18:13:15] <+littlediobolic> Make sure to brew them to get more seeds
+[2022-12-07 18:13:17] <leons_sentient_jacket> @ambiguousamphibian bawkStare Bawk Stare
+[2022-12-07 18:13:23] <Rexxig> You got a few good dwarfs children to butcher and cook for the winter
+[2022-12-07 18:13:25] <Siilis108> DONT COOK THEM
+[2022-12-07 18:13:26] <RedBrickAce> is crop rotation a thing?
+[2022-12-07 18:13:29] <CleverShadow> @Syluxrox Different things like eating the raw plump helmets, brewing with them or making say biscuits with them will produce seeds
+[2022-12-07 18:13:30] <+GShogun> @Bohnenblatt i'd settle with straight up donations, but i'm glad they have a good revenue stream from the steam release
+[2022-12-07 18:13:33] <%W33hawk> @ambiguousamphibian how do you get seeds after a grow season? I really struggle with getting the seeds i need.
+[2022-12-07 18:13:35] <+hyperhopper> @ambiguousamphibian they nerfed dirt farming in steam, caverns = faster farming now
+[2022-12-07 18:13:42] <ChilliDogDave> @ambiguousamphibian the door helped nothing was getting to your crops
+[2022-12-07 18:13:43] <just_bees__> yeah, coming from rimworld, cooking up all my plump helmets caused some problems
+[2022-12-07 18:13:43] <+iAmKetPain> @ambiguousamphibian if you cook the plump helmets, you'll lose the seeds
+[2022-12-07 18:13:49] <+Retro42JL> @W33hawk brewing and eating raw give more seeds
+[2022-12-07 18:13:50] <+GShogun> @seymour47 yeah, plus i can get my own tilesets and other customizations from the community if i need
+[2022-12-07 18:13:52] <Bohnenblatt> @GShogun one thing i dont like about the steam release is that farms dont show planted plants
+[2022-12-07 18:13:58] <%+seymour47> @GShogun Yea
+[2022-12-07 18:14:00] <+GShogun> @Bohnenblatt oh, that's weird
+[2022-12-07 18:14:02] <Siilis108> @Amphibious this what you do: Go Labor and Kitchen
+[2022-12-07 18:14:04] VIEWERS: 2 747
+[2022-12-07 18:14:05] <MoogsParfait> In the labors->kitchen menu you have to turn off cooking drinks
+[2022-12-07 18:14:18] <johnbburg> I struggle with too much food, and I’m. It sure what to do with it.
+[2022-12-07 18:14:22] <Rapid_Recline> dying is the quickest path to wisdom
+[2022-12-07 18:14:23] <Siilis108> Disable plump helmet cooking and pig tail brewing
+[2022-12-07 18:14:23] <Mananskatar> Ypu can harvest plants from the surface
+[2022-12-07 18:14:25] <%kosine> I do like that rimworld has warnings like "tattered clothes, hunter lacks ranged weapon, and low food". It seems like DF doesn't really offer things like that.
+[2022-12-07 18:14:31] <%W33hawk> @W33hawk thanks!
+[2022-12-07 18:14:51] <CleverShadow> Has it been winter yet? Does the water freeze here?
+[2022-12-07 18:15:03] <sayagainsquid> I heard butcheries are better outside? can the vets correct me if I'm wrong?
+[2022-12-07 18:15:03] <+GShogun> @kosine DF is more macro focused, you dont have to worry about tattered clothing if you have a stable clothing industry
+[2022-12-07 18:15:11] <Bohnenblatt> @kosine I always say Dwarf fortress is harder to learn but Rimworld is a harder game
+[2022-12-07 18:15:11] <+imscomobob> @CleverShadow it does
+[2022-12-07 18:15:12] <+two_capybaras> poultry is also a good food source quite easy to set up
+[2022-12-07 18:15:12] <%+seymour47> Nearly 3k now.
+[2022-12-07 18:15:12] <+GShogun> @kosine because dwarfs will always pick up new clothes when evailable
+[2022-12-07 18:15:14] <cloudsoda> good, good
+[2022-12-07 18:15:16] <+LieutenantMilk> i do have you in the background
+[2022-12-07 18:15:17] <Socioscythe> Almost 3 thou LUL
+[2022-12-07 18:15:18] <FroggyJuni0r> the trick is to always think and speak in third person
+[2022-12-07 18:15:20] <Boraxx92> Yes
+[2022-12-07 18:15:20] <RaptorDarwin> yes
+[2022-12-07 18:15:20] <bonebard> yes
+[2022-12-07 18:15:20] <%+seymour47> Yes
+[2022-12-07 18:15:20] <pieboy321> yes
+[2022-12-07 18:15:20] <+manumoys> Yes
+[2022-12-07 18:15:20] <MassiveBreaker> Yes
+[2022-12-07 18:15:20] <+littlediobolic> I wish
+[2022-12-07 18:15:21] <+TheGhostlyOnyx> yes
+[2022-12-07 18:15:21] <seraphimdunham> yes
+[2022-12-07 18:15:21] <+imscomobob> yes
+[2022-12-07 18:15:21] <Nico_tsb> Yes sir
+[2022-12-07 18:15:21] <Siilis108> Yes
+[2022-12-07 18:15:21] <+fubous7> Yes
+[2022-12-07 18:15:22] <petekatchou> yes
+[2022-12-07 18:15:22] <Bohnenblatt> YES
+[2022-12-07 18:15:22] <Lilstoudey> no
+[2022-12-07 18:15:22] <feralferret> Yes
+[2022-12-07 18:15:22] <+LieutenantMilk> yes
+[2022-12-07 18:15:22] <+MurderofPhoenixes> NO
+[2022-12-07 18:15:22] <cloudsoda> nope 4Head
+[2022-12-07 18:15:22] <rose_the_paladin> Yes
+[2022-12-07 18:15:22] <Wermeleon> no
+[2022-12-07 18:15:23] <Sch0ckrazor> yes
+[2022-12-07 18:15:23] <+kcbannerlive> no
+[2022-12-07 18:15:23] <sushimii__> yes
+[2022-12-07 18:15:23] <%Morgloz> @sayagainsquid Yes
+[2022-12-07 18:15:23] <machinesandmetal> yes
+[2022-12-07 18:15:23] <CleverShadow> yes
+[2022-12-07 18:15:23] <marshall392> yes
+[2022-12-07 18:15:23] <Frozen_Leaf> Yesd
+[2022-12-07 18:15:23] <DennaKnemann> yes
+[2022-12-07 18:15:23] <CowofJustice> no
+[2022-12-07 18:15:23] <Isgrimur> yes
+[2022-12-07 18:15:23] <aboletheater> yes
+[2022-12-07 18:15:23] <CaptainDerk> yes captai1615Car
+[2022-12-07 18:15:23] <Reverend_Jocko> NO
+[2022-12-07 18:15:23] <vairamusic> no
+[2022-12-07 18:15:23] <FroggyJuni0r> no
+[2022-12-07 18:15:24] <BubbaFrankz> no
+[2022-12-07 18:15:24] <+mystic_science> yes
+[2022-12-07 18:15:24] <Tomo_mo> yes
+[2022-12-07 18:15:24] <%+suplup> no
+[2022-12-07 18:15:24] <%akrogon> no
+[2022-12-07 18:15:24] <Kollock5> yes
+[2022-12-07 18:15:24] <Mananskatar> no
+[2022-12-07 18:15:24] <antharok> no
+[2022-12-07 18:15:24] <BunnyMcFluff> No
+[2022-12-07 18:15:24] <+Zakaluka15> yes
+[2022-12-07 18:15:24] <%latterbug_> no
+[2022-12-07 18:15:25] <Suralvion> yes
+[2022-12-07 18:15:25] <%+FrothGoblin> no
+[2022-12-07 18:15:25] <WaveThrash> no
+[2022-12-07 18:15:25] <+AkuraJebia> no
+[2022-12-07 18:15:25] <shadowghost1175> no
+[2022-12-07 18:15:25] <+BobJoMac> no
+[2022-12-07 18:15:25] <FitzTheCanuck> yes
+[2022-12-07 18:15:25] <%+TexanMonkeyAlpha> yes
+[2022-12-07 18:15:25] <lil_mad_rat> No
+[2022-12-07 18:15:25] <KingKibaj> yes
+[2022-12-07 18:15:25] <Witch_Punk> no
+[2022-12-07 18:15:25] <Tron359> meee
+[2022-12-07 18:15:26] <oranges369> no
+[2022-12-07 18:15:26] <crazywaffle117> no
+[2022-12-07 18:15:26] <+vulkan1206> no
+[2022-12-07 18:15:26] <BreceLuu> nah
+[2022-12-07 18:15:26] <orange51611> no
+[2022-12-07 18:15:26] <MarsD0ge> no
+[2022-12-07 18:15:26] <ancistrus2718> no
+[2022-12-07 18:15:26] <GreenOnTwitch> no
+[2022-12-07 18:15:26] <MKfrmGrmny> yes
+[2022-12-07 18:15:26] <whoah5678> eu4
+[2022-12-07 18:15:26] <%DestroyerOfSushi> no
+[2022-12-07 18:15:26] <+fusedblackblade> no
+[2022-12-07 18:15:26] <situati0n> no
+[2022-12-07 18:15:26] <+BitByte_> no
+[2022-12-07 18:15:26] <+Mknixght> poop
+[2022-12-07 18:15:26] <Metal_Fox117> Yes
+[2022-12-07 18:15:26] <+dburn41> Me
+[2022-12-07 18:15:26] <+KanoB5> no
+[2022-12-07 18:15:26] <+phoenixhellwolf> no
+[2022-12-07 18:15:26] <TrealDuck> no
+[2022-12-07 18:15:26] <itIsMrMoz> No
+[2022-12-07 18:15:26] <%+ShadowDragnz> NOOO
+[2022-12-07 18:15:26] <+Magdelia> no
+[2022-12-07 18:15:27] <TooManyBadgerss> no
+[2022-12-07 18:15:27] <2908_Juno> no
+[2022-12-07 18:15:27] <Yellowone_1> no
+[2022-12-07 18:15:27] <+pvtbones> no
+[2022-12-07 18:15:27] <+LuciferS90> no
+[2022-12-07 18:15:27] <%+atherness> no
+[2022-12-07 18:15:27] <dlvldere> no
+[2022-12-07 18:15:27] <Peijas> yes
+[2022-12-07 18:15:27] <%W33hawk> Yes, and im working on a different PC
+[2022-12-07 18:15:27] <+Wolferain> yes
+[2022-12-07 18:15:27] <D_Dio> yes
+[2022-12-07 18:15:27] <zreo1337> no
+[2022-12-07 18:15:27] <+sonoftheright> no
+[2022-12-07 18:15:27] <Trimasael> yes
+[2022-12-07 18:15:28] <+destdanny> no
+[2022-12-07 18:15:28] <+pick6and1> no
+[2022-12-07 18:15:28] <RandomFungi> no
+[2022-12-07 18:15:28] <%+JaneWhitwork> no
+[2022-12-07 18:15:28] <justhere4endorphins> no
+[2022-12-07 18:15:28] <lilacwafers> No
+[2022-12-07 18:15:29] <robbinghood615> no
+[2022-12-07 18:15:29] <Gilmadeshh> both
+[2022-12-07 18:15:29] <%+Yodathecool1> yes
+[2022-12-07 18:15:29] <+FusionKissMe> no
+[2022-12-07 18:15:29] <+KravenLupei> no, cuz im working D:
+[2022-12-07 18:15:29] <+apolloiv1992> No
+[2022-12-07 18:15:29] <+KamiSkript> no
+[2022-12-07 18:15:29] <soyboy2070> yes
+[2022-12-07 18:15:29] <+Truzoeka> YES
+[2022-12-07 18:15:29] <%+complexquanta> no
+[2022-12-07 18:15:29] <+DragooKnight11> no
+[2022-12-07 18:15:29] <Isomery> no
+[2022-12-07 18:15:30] <Dumbsnarky> yes
+[2022-12-07 18:15:30] <+Z3PHRAX> no
+[2022-12-07 18:15:30] <+blueninja39> no
+[2022-12-07 18:15:30] <vryan_curtis> nope LUL
+[2022-12-07 18:15:30] <joshmckelvey> no :)
+[2022-12-07 18:15:30] <+swibbel> no
+[2022-12-07 18:15:30] <+GITyler> no
+[2022-12-07 18:15:30] [Points] Thirst_88 redeemed Contribute to Cult's Totem (500)
+[2022-12-07 18:15:31] <zacyzacy> I'm at work
+[2022-12-07 18:15:31] <+dburn41> Yes
+[2022-12-07 18:15:31] <KnukN> I'm technically at work
+[2022-12-07 18:15:32] <Cheskus> No
+[2022-12-07 18:15:32] <RedBrickAce> no
+[2022-12-07 18:15:32] <+PrimusOmegaOne> No
+[2022-12-07 18:15:32] <+Mr_Sifter> no
+[2022-12-07 18:15:32] <%+s0LARiz> yes
+[2022-12-07 18:15:32] <Rexxig> No
+[2022-12-07 18:15:32] <artemiish> no
+[2022-12-07 18:15:32] <LagoonSNES> no
+[2022-12-07 18:15:32] <+benz532> no
+[2022-12-07 18:15:32] <Psiclone__> No
+[2022-12-07 18:15:32] <Maurizio10n> no
+[2022-12-07 18:15:32] <PGKitsune> No playing rimworld
+[2022-12-07 18:15:32] <nagamommy> i wish but im getting ready to go on a plane
+[2022-12-07 18:15:32] <sayagainsquid> yeah I'll hop on
+[2022-12-07 18:15:33] <Garstiga> no
+[2022-12-07 18:15:33] <+geladeira2> nop, im working
+[2022-12-07 18:15:33] <anubis_tsn> no, working
+[2022-12-07 18:15:33] <%+atherness> im working
+[2022-12-07 18:15:33] <mozesk> yes
+[2022-12-07 18:15:34] <dragon7526> No. Have been watching a lot of people play though.
+[2022-12-07 18:15:34] <PrivatePeepo> no ambiSnek
+[2022-12-07 18:15:34] <%+lunacorvidae> No
+[2022-12-07 18:15:34] <+Syluxrox> yes
+[2022-12-07 18:15:34] <ChilliDogDave> @ambiguousamphibian im playing along to make sure my advise isn't out dated
+[2022-12-07 18:15:34] <xRafikus> no
+[2022-12-07 18:15:34] <Pipyui> yes
+[2022-12-07 18:15:34] <Secato07> no
+[2022-12-07 18:15:35] <+halesyn> no
+[2022-12-07 18:15:35] <gasoline_j> yes
+[2022-12-07 18:15:35] <+Stonedwater> No
+[2022-12-07 18:15:35] <SKS120> yes
+[2022-12-07 18:15:36] <seraphimdunham> its not :D
+[2022-12-07 18:15:36] <petekatchou> its not
+[2022-12-07 18:15:36] <johnbburg> No
+[2022-12-07 18:15:36] [Notification] manumoys subscribed with Prime.
+[2022-12-07 18:15:37] <One_Peace_Walker> Yes
+[2022-12-07 18:15:37] <Takeo642> no
+[2022-12-07 18:15:37] <LimronLeLithe> yes
+[2022-12-07 18:15:37] <cloudsoda> @PGKitsune LUL
+[2022-12-07 18:15:38] <%+heynayjay> yessssss
+[2022-12-07 18:15:38] <mrsnailz> #
+[2022-12-07 18:15:38] <kass_ai98> yeaaaa
+[2022-12-07 18:15:38] <+SouDescolado> IM WORKING while listening
+[2022-12-07 18:15:39] <CleverShadow> Learning the new keybinds is rough
+[2022-12-07 18:15:39] <Siilis108> Make a poll
+[2022-12-07 18:15:40] <mrsnailz> No
+[2022-12-07 18:15:40] <+LieutenantMilk> yes it is
+[2022-12-07 18:15:40] <sausage_thief> No
+[2022-12-07 18:15:42] <%+GustavoAzzolin> I'm playing minecraft
+[2022-12-07 18:15:43] <+KanoB5> hhahaha
+[2022-12-07 18:15:44] <Aedys> I play dwarf fortress since 2012
+[2022-12-07 18:15:44] <CaptainDerk> it's my second summer and i just made a well KEKW
+[2022-12-07 18:15:45] <sigvard819> Yes
+[2022-12-07 18:15:45] <+jgeyer76> No
+[2022-12-07 18:15:47] <+blueninja39> I'm watching in class
+[2022-12-07 18:15:47] <+GShogun> lol
+[2022-12-07 18:15:47] <CannibulCake> D:
+[2022-12-07 18:15:47] <+metaproxy> Yes no maybe I don’t know
+[2022-12-07 18:15:48] <FroggyJuni0r> who already had a dead dwarf?
+[2022-12-07 18:15:49] <antharok> D:
+[2022-12-07 18:15:50] <+LieutenantMilk> D:
+[2022-12-07 18:15:50] <willsworld0> No
+[2022-12-07 18:15:51] <DisorientedFox> I'm technically on the toilet. barbToxic
+[2022-12-07 18:15:51] <mcvenor6> D:
+[2022-12-07 18:15:52] <oranges369> D:
+[2022-12-07 18:15:52] <cloudsoda> RUDE
+[2022-12-07 18:15:58] <+dburn41> I’m in the caverns 🫠
+[2022-12-07 18:15:59] <+apolloiv1992> I’m technically working lol
+[2022-12-07 18:15:59] <+blueninja39> got a math exam in the next 10
+[2022-12-07 18:16:00] <Gilmadeshh> Fired from school D:
+[2022-12-07 18:16:00] <+PrimusOmegaOne> D:
+[2022-12-07 18:16:01] <Socioscythe> NotLikeThis
+[2022-12-07 18:16:01] <%+JaneWhitwork> Evil frog
+[2022-12-07 18:16:01] <nagamommy> lmao
+[2022-12-07 18:16:01] <nickydeedles> :(
+[2022-12-07 18:16:02] <cloudsoda> ambiguous is DRUNK WITH POWER
+[2022-12-07 18:16:02] <+L0N3W0LF_911> I want to be but it feels like its too complicated for me
+[2022-12-07 18:16:03] <+GShogun> glad i have my own business, can make my own hours (:
+[2022-12-07 18:16:06] VIEWERS: 2 747
+[2022-12-07 18:16:08] <cloudsoda> OhMyDog
+[2022-12-07 18:16:08] <%+seymour47> CHristian Stream!
+[2022-12-07 18:16:15] <zacyzacy> me too
+[2022-12-07 18:16:15] <seraphimdunham> swear froge
+[2022-12-07 18:16:16] <%+lunacorvidae> D:
+[2022-12-07 18:17:14] <sennisd> Waiting for MAC version 😞
